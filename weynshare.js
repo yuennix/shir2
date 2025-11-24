@@ -895,25 +895,20 @@ function getAnimatedMenuTitle() {
 async function showMenu() {
   const accounts = AccountManager.loadAccounts();
   const cooldownCount = accounts.filter(acc => acc.cooldown).length;
-  const cooldownDisplay = cooldownCount > 0 ? magenta(`🔴${cooldownCount}`) : '';
+  const cooldownDisplay = cooldownCount > 0 ? magenta(`${cooldownCount}`) : '';
+  const storedCount = C('38;5;226', `STORED: ${accounts.length}`);
 
-  console.log(C('38;5;201', '\n┌──────────────────────────┐'));
-  console.log(C('38;5;201', '│ ') + C('38;5;51', 'BOOST-SH v1.1 MENU') + C('38;5;201', '      │'));
-  console.log(C('38;5;201', '├──────────────────────────┤'));
-
-  console.log(C('38;5;51', '│ [1] Add Account          │'));
-  console.log(C('38;5;45', '│ [2] List Accounts        │'));
-  console.log(C('38;5;39', '│ [3] Remove Account       │'));
-  console.log(C('38;5;33', '│ [4] Single Share         │'));
-  console.log(C('38;5;226', '│ [5] Mass Share (4K)      │'));
-  console.log(C('38;5;208', '│ [6] Statistics           │'));
-  console.log(C('38;5;129', '│ [7] Check Live Status    │'));
-  console.log(C('38;5;93', '│ [8] Cooldown ' + cooldownDisplay.padEnd(11) + '│'));
-  console.log(C('38;5;57', '│ [9] Test All Accounts    │'));
-
-  console.log(C('38;5;201', '├──────────────────────────┤'));
-  console.log(C('38;5;226', '│ ⚡ ULTRA FAST SHARING  │'));
-  console.log(C('38;5;201', '└──────────────────────────┘'));
+  console.log(C('38;5;201', '\n┌──────────────────────────────────────────────────────┐'));
+  console.log(C('38;5;201', '│ ') + C('38;5;51', 'BOOST-SH v1.1 MENU') + C('38;5;195', '       │ ') + storedCount + C('38;5;195', '                 │'));
+  console.log(C('38;5;201', '├──────────────────────────────────────────────────────┤'));
+  console.log(C('38;5;51', '│ [1] Add Account          │ [5] Mass Share (4K)       │'));
+  console.log(C('38;5;45', '│ [2] List Accounts        │ [6] Statistics            │'));
+  console.log(C('38;5;39', '│ [3] Remove Account       │ [7] Check Live Status     │'));
+  console.log(C('38;5;33', '│ [4] Single Share         │ [8] Cooldown ' + cooldownDisplay.padEnd(5) + '        │'));   
+  console.log(C('38;5;199', '│               [9] Test All Accounts                  |')); 
+  console.log(C('38;5;201', '├──────────────────────────────────────────────────────┤'));
+  console.log(C('38;5;226', '│              ⚡SPAMSHARE BY: WEYN DUMP ⚡            │'));
+  console.log(C('38;5;201', '└──────────────────────────────────────────────────────┘'));
 }
 
 async function testAllAccounts() {
@@ -1135,9 +1130,7 @@ async function main() {
         case '0':
         case 'exit':
           console.log(C('38;5;51', '\n👋 Thank you for using BOOST-SH v1.1!'));
-          console.log(C('38;5;165', '💖 Made by Jhames Martin'));
-          console.log(C('38;5;129', '🌟 Termux Ready • PH Edition 2025'));
-          console.log(C('38;5;226', '🚀 Happy sharing! See you next time!'));
+          
           rl.close();
           return;
         default:
