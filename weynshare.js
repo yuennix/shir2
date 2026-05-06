@@ -1,1 +1,1289 @@
-const _0x80114c=_0x3476;(function(_0x45ad8d,_0x3afcc6){const _0x464493=_0x3476,_0x462787=_0x45ad8d();while(!![]){try{const _0x3b2a70=parseInt(_0x464493(0x1f6))/0x1*(-parseInt(_0x464493(0x285))/0x2)+-parseInt(_0x464493(0x252))/0x3*(parseInt(_0x464493(0x21b))/0x4)+parseInt(_0x464493(0x1dc))/0x5*(parseInt(_0x464493(0x15c))/0x6)+-parseInt(_0x464493(0x1ab))/0x7*(parseInt(_0x464493(0x240))/0x8)+parseInt(_0x464493(0x232))/0x9*(parseInt(_0x464493(0x23e))/0xa)+-parseInt(_0x464493(0x19b))/0xb*(-parseInt(_0x464493(0x1cd))/0xc)+parseInt(_0x464493(0x1a2))/0xd;if(_0x3b2a70===_0x3afcc6)break;else _0x462787['push'](_0x462787['shift']());}catch(_0x221347){_0x462787['push'](_0x462787['shift']());}}}(_0x4e87,0x2032b));const https=require('https'),readline=require('readline'),fs=require('fs'),rl=readline[_0x80114c(0x23f)]({'input':process['stdin'],'output':process['stdout']});let globalStopFlag=![];function _0x4e87(){const _0x121d4a=['\x20removed\x20successfully!','until\x20you\x20login\x20to','\x20\x20-\x20Press\x20ENTER\x20on\x20empty\x20line\x20when\x20done','WORKING','💡\x20Tip:\x20Copy\x20complete\x20cookie\x20from\x20Facebook','graph.facebook.com','1898055GMjuVJ','code','padStart','saveAccounts','📝\x20Input\x20Facebook\x20Cookie\x20(c_user,\x20xs,\x20datr):','38;5;209','\x20\x20\x20Testing\x20Account\x20','request','\x20\x20#\x20\x20\x20ACCOUNT\x20ID\x20\x20\x20\x20\x20\x20\x20STATUS\x20\x20\x20\x20\x20SHARES\x20\x20\x20SUCCESS\x20\x20\x20ADDED\x20DATE','singleAddAccount','map','...','10KTRwup','createInterface','72geFHAD','38;5;159','existsSync','════════════════════════════════════════════════════════════════','38;5;211','\x0a╔══════════════════════════════════════════════════════════════╗','accountStats','race','38;5;135','rate\x20limit','✅\x20Removed\x20','/business_locations','\x20│\x20ID:\x20','║\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✅\x20NO\x20ACCOUNTS\x20IN\x20COOLDOWN\x20✅\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20║','\x0a🧪\x20TESTING\x20ALL\x20ACCOUNTS\x20(1\x20Share\x20Each\x20with:\x20','\x20\x20🚫\x20DISABLED:\x20\x20\x20\x20\x20','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20STORED\x20ACCOUNTS:\x20','Never\x20\x20\x20','51SpyOFs','\x20shares\x20with\x20Account\x20','\x20│\x20Time\x20Left:\x20','lastShare','\x20\x20\x20\x20╚═════╝\x20\x20╚═════╝\x20\x20╚═════╝\x20╚══════╝\x20\x20\x20╚═╝\x20\x20\x20\x20\x20\x20\x20╚══════╝╚═╝\x20\x20╚═╝','error','✅\x20SUCCESS','cookie','[+]\x20🌐\x20Enter\x20Post\x20URL\x20to\x20test\x20(b=back):\x20','\x20\x20-\x20Cookies\x20must\x20have\x20c_user=\x20and\x20xs=','\x1b[H\x1b[2J','N/A\x20\x20\x20','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20TEST\x20ALL\x20ACCOUNTS\x20REPORT\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Error\x20loading\x20accounts:','❌\x20Invalid\x20selection!','\x0a[+]\x20➕\x20Add\x20Facebook\x20Accounts','\x20expired\x20cooldown(s)!\x0a','\x0a[+]\x20Select\x20mode\x20(1/2)\x20-\x20Press\x20(b)\x20to\x20go\x20back:\x20','updateInterval','🚀\x20BOOST-SH\x20v1.1\x20MAIN\x20MENU\x20🚀','\x20\x20\x20📱\x20Account\x20ID:\x20','substring','push','line','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│','\x20\x20📊\x20TOTAL\x20TESTED:\x20','ERROR:\x20','\x20\x20ACCOUNT\x20USED:\x20\x20\x20\x20\x20\x20','\x20\x20❌\x20DISABLED\x20ACCOUNTS:\x20\x20\x20','Unknown\x20error','\x20\x20\x20🔗\x20URL:\x20','\x20\x20ACCOUNTS\x20USED:\x20\x20\x20\x20\x20','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│','\x20is\x20now\x20','38;5;210','\x20\x20DETAILED\x20COOLDOWN\x20STATUS:','data','\x0a[+]\x20Select\x20account\x20to\x20remove\x20(number):\x20','║\x20\x20All\x20accounts\x20are\x20ready\x20to\x20share!\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20║','\x20│\x20Status:\x20','════════════════════════════════════════════════════════════════\x0a','\x20\x20🔴\x20COOLDOWN\x20ACCOUNTS:\x20\x20\x20','ceil','\x20\x20\x20Inactive\x20Accounts\x20\x20:\x20','✅\x20WORKING','\x20\x20SUCCESSFUL\x20SHARES:\x20(\x20{success}/\x20){shares}','│\x20\x20\x20\x20\x20\x20\x20','--->\x20','✅\x20Cleared\x20','❌\x20DISABLED','38;5;195','3484qsMLrU','Parse\x20error','🔴\x20LIMITED\x20(','listAccounts','readFileSync','\x1b[3J\x1b[H\x1b[2J','failed','\x1b[0m','💡\x20Add\x20accounts\x20first\x20or\x20activate\x20existing\x20ones','[1]\x20Add\x20Account\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│\x20[5]\x20Mass\x20Share\x20','\x20\x20OVERVIEW','isCooldown','removeAccount','\x0a[+]\x20Press\x20Enter\x20to\x20continue\x20(b=back)...','we\x20limit','end','bulkAddAccounts','✅\x20Account\x20','\x0a[+]\x20Select\x20account\x20(number,\x20b=back):\x20','Cannot\x20extract\x20token\x20from\x20cookie','═════════════════════════════════════════════════════════════════════════\x0a','38;5;82','\x20\x20Inactive\x20Accounts:\x20\x20\x20\x20\x20\x20\x20\x20\x20','❌\x20Operation\x20cancelled.','\x20\x20\x20\x20\x20\x20└─\x20Add\x20multiple\x20accounts\x20at\x20once\x20(paste\x20cookies\x20one\x20per\x20line)','\x0a\x20\x20DETAILED\x20RESULTS:','\x20\x20❌\x20FAILED:\x20\x20\x20\x20\x20\x20','loadAccounts','38;5;46','now','en-US,en;q=0.9','📝\x20Paste\x20cookies\x20(one\x20per\x20line):','splice','totalShares','❌\x20Account\x20','close','💡\x20Try\x20running\x20with\x20--debug\x20for\x20more\x20details','completed','\x20\x20\x20⚡\x20Speed:\x20OPTIMIZED\x20(600-800\x20shares/minute\x20per\x20account)','[+]\x20🔢\x20Amount\x20of\x20shares\x20per\x20account\x20(1-4000,\x20b=back):\x20','\x20\x20⊘\x20SKIPPED:\x20\x20\x20\x20\x20','38;5;203','\x20\x20[1]\x20Single\x20Account','100%','from','\x20\x20-\x20Each\x20line\x20=\x201\x20cookie','INACTIVE\x20','═════════════════════════════════════════════════════════════════════════','EXPIRED\x20-\x20Ready\x20to\x20use!','\x20\x20─────────────────────────────────────────────────────────────','BACK','⚡\x20Processing\x20${totalShares}\x20shares\x20at\x20maximum\x20speed!\x0a','1098wfByqF','unless\x20you\x20login','filter','set','cooldown','\x0a❌\x20No\x20active\x20accounts\x20found!','\x0a[+]\x20🌐\x20Enter\x20Post\x20URL\x20to\x20share\x20(b=back):\x20','✅\x20ACTIVE','added','\x20\x20✅\x20SUCCESSFUL:\x20\x20','forEach','argv','\x0aCookie\x20(Press\x20b\x20to\x20go\x20back,\x20or\x20empty\x20line\x20to\x20finish):\x20','too\x20frequent','writeFileSync','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│','ACTIVE\x20\x20\x20','\x20\x20⏱️\x20\x20TIME:\x20\x20\x20\x20\x20\x20\x20\x20\x20','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20ACCOUNT\x20STATUS\x20REPORT\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','random','════════════════════════════════════════════════════════════════════════','working','toggleAccountStatus','╚══════════════════════════════════════════════════════════════╝','success','Invalid\x20format','status','38;5;226','Paused\x20\x20','\x20-\x20UID:\x20','replace','trim','match','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│','\x20\x20\x20Total\x20Shares\x20Done\x20\x20:\x20','cooldownUntil','\x20cookies...\x0a','\x20\x20──────────────────────────────────────────────────────────────────────','─────────────────────────────────────────────────────────────────────────','[2]\x20List\x20Accounts\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│\x20[6]\x20Statistics','Request\x20error','❌\x20SKIPPED\x20-\x20Invalid\x20format','❌\x20FAILED\x20','📝\x20Choose\x20mode:','exit','\x20\x20\x20\x20██████╔╝██║\x20\x20\x20██║██║\x20\x20\x20██║███████╗\x20\x20\x20██║\x20\x20\x20\x20\x20\x20\x20███████╗███████║','38;5;21','getFinalStats','accounts.json','\x20\x20\x20\x20\x20✨\x20','\x0a❌\x20No\x20accounts\x20to\x20check!','log','38;5;129','Network\x20error','disabled','════════════════════════════════════════════════════════════════════════\x0a','╠══════════════════════════════════════════════════════════════╣','38;5;219',']...\x20','\x20|\x20ID:\x20','padEnd','addAccount','includes','275romvlF','min\x20remaining','\x0a⏹️\x20Stopping...','\x0a\x0a⏹️\x20SHARING\x20STOPPED\x20BY\x20USER','toISOString','\x20\x20❌\x20ERROR:\x20\x20\x20\x20\x20\x20\x20\x20','BOOST-SH\x20v1.1\x20MENU\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│\x20STORED:\x20','438529BtdLlx','startRendering','successRate','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20[9]\x20Test\x20All\x20Accounts','clear','Mozilla/5.0','Active\x20&\x20Working','║\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20❌\x20NO\x20STATISTICS\x20AVAILABLE\x20❌\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20║','\x20\x20\x20📱\x20Active\x20Accounts:\x20','167230DIPlpm','durationFormatted','skipped','\x0aCookie\x20(Press\x20b\x20to\x20go\x20back):\x20','\x0a❌\x20No\x20accounts\x20to\x20test!','text/html','38;5;33','\x20\x20Total\x20in\x20Cooldown:\x20','38;5;201','then','\x20\x20TOTAL\x20FAILED:\x20\x20\x20\x20\x20\x20','━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\x20','_refreshLine','\x20disabled\x20accounts!','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20COOLDOWN\x20ACCOUNTS\x20REPORT\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','POST','38;5;45','38;5;93','reduce','\x20\x20\x20\x20\x20└\x20Last\x20Share:\x20','\x20\x20SPEED:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','stopRendering','💡\x20Tips:','\x20\x20\x20📊\x20Total\x20shares:\x20','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20🚀\x20FAST\x20SHARING\x20COMPLETED!\x20🚀\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','❌\x20FAILED','\x20\x20POST\x20URL:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','duration','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20DETAILED\x20PER-ACCOUNT\x20BREAKDOWN\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','startTime','\x20\x20Total\x20Shares:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','/v20.0/me/feed?access_token=','\x0a❌\x20Invalid\x20option!\x20Please\x20select\x200-9.','Ready\x20\x20\x20','1548nBKXon','STOP','all','frequency','❌\x20No\x20valid\x20cookies\x20provided!','38;5;51','\x20\x20\x20Avg\x20Success\x20Rate\x20\x20\x20:\x20','GET','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20BULK\x20IMPORT\x20REPORT\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','\x20\x20TOTAL\x20SUCCESS:\x20\x20\x20\x20\x20','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20NO\x20ACCOUNTS\x20FOUND\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','\x20\x20DURATION:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Mozilla/5.0\x20(Linux;\x20Android\x2010;\x20K)\x20AppleWebKit/537.36','stdout','\x0a👋\x20Thank\x20you\x20for\x20using\x20BOOST-SH\x20v1.1!','5905KgaRVX','\x20is\x20inactive!','\x20\x20\x20\x20\x20\x20└─\x20Add\x201\x20account\x20with\x20manual\x20cookie\x20input','\x0a════════════════════════════════════════════════════════════════','\x0a❌\x20Error:\x20','\x1b[3J','[4]\x20Single\x20Share\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│\x20[8]\x20Cooldown','https://www.facebook.com/','\x20\x20\x20\x20\x20\x20\x20\x20│','\x0a🚀\x20Starting\x20FAST\x20SHARING...\x0a','[+]\x20🌐\x20Enter\x20Post\x20URL\x20to\x20share\x20(b=back):\x20','c_user=','🚫\x20DISABLED\x20(','\x20\x20\x20\x20██╔══██╗██╔═══██╗██╔═══██╗██╔════╝╚══██╔══╝\x20\x20\x20\x20██╔════╝██║\x20\x20██║','...\x20','\x20\x20\x20','\x20\x20\x20\x20\x20\x20\x20\x20⚡\x20SPAMSHARE\x20BY:\x20WEYN\x20DUMP\x20⚡','\x20\x20SUCCESS\x20RATE:\x20\x20\x20\x20\x20\x20','stringify','active','38;5;141','38;5;165','limited','application/json','write','s\x20remaining','26yVmxKe','Error\x20saving\x20accounts:','uid','message','\x20\x20Thank\x20you\x20for\x20using\x20BOOST-SH\x20v1.1!','\x0a═════════════════════════════════════════════════════════════════════════','\x0a[+]\x20🚀\x20FAST\x20Mass\x20Share\x20Configuration:','INACTIVE','split','statusName','\x0a[+]\x20❓\x20Start\x20sharing?\x20(y/N,\x20b=back):\x20','├──────────────────────────────────────────────────────────────┤','\x20│\x20Shares:\x20','https://www.facebook.com','\x20\x20Total\x20Accounts:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','❌\x20Invalid\x20number!\x20Must\x20be\x20between\x201-4000','\x20shares/second','shareCount','\x0a❌\x20Critical\x20Error:\x20','catch','floor','utf8','LIMITED','🔴\x20COOLDOWN','s\x20(','render','ERROR','toString','xs=','min','\x20\x20\x20\x20██████╔╝╚██████╔╝╚██████╔╝███████║\x20\x20\x20██║\x20\x20\x20\x20\x20\x20\x20███████║██║\x20\x20██║','DISABLED','parse','\x20\x20[2]\x20Bulk\x20Import','❌\x20ERROR:\x20','\x20-\x20','\x20\x20\x20Total\x20Accounts\x20\x20\x20\x20\x20:\x20','16892nyjATt','inactive','length','ACTIVE','globalCounter','recordResult','activeAccounts','\x20\x20Processing\x20[','toFixed','\x20\x20OVERALL\x20SUCCESS\x20RATE:\x20\x20\x20\x20\x20\x20\x20\x20','└──────────────────────────────────────────────────────────────┘','toLowerCase','limit\x20how\x20often','\x20\x20\x20Active\x20Accounts\x20\x20\x20\x20:\x20','\x0a┌──────────────────────────────────────────────────────────────┐','isDisabled','alive'];_0x4e87=function(){return _0x121d4a;};return _0x4e87();}const C=(_0x42bb49,_0x4a7bd9)=>'\x1b['+_0x42bb49+'m'+_0x4a7bd9+_0x80114c(0x28c),green=_0x2ceefa=>C('92',_0x2ceefa),red=_0x2ed567=>C('91',_0x2ed567),yellow=_0x24465f=>C('93',_0x24465f),cyan=_0x11d374=>C('96',_0x11d374),magenta=_0x318b5a=>C('95',_0x318b5a),blue=_0x5cf2ce=>C('94',_0x5cf2ce),white=_0x595155=>C('97',_0x595155),reset=_0x3d6102=>C('0',_0x3d6102);function displayASCIIBanner(){const _0x3ef95f=_0x80114c;console[_0x3ef95f(0x18f)](C(_0x3ef95f(0x1b3),'\x20\x20\x20\x20██████╗\x20\x20██████╗\x20\x20██████╗\x20███████╗████████╗\x20\x20\x20\x20███████╗██╗\x20\x20██╗')),console[_0x3ef95f(0x18f)](C(_0x3ef95f(0x1f1),_0x3ef95f(0x1e9))),console[_0x3ef95f(0x18f)](C(_0x3ef95f(0x190),_0x3ef95f(0x189))),console['log'](C(_0x3ef95f(0x1bc),'\x20\x20\x20\x20██╔══██╗██║\x20\x20\x20██║██║\x20\x20\x20██║╚════██║\x20\x20\x20██║\x20\x20\x20\x20\x20\x20\x20╚════██║██╔══██║')),console[_0x3ef95f(0x18f)](C('38;5;57',_0x3ef95f(0x214))),console[_0x3ef95f(0x18f)](C(_0x3ef95f(0x18a),_0x3ef95f(0x256))),console[_0x3ef95f(0x18f)]('');}function printAnimatedBanner(){const _0x5f0234=_0x80114c;console['clear'](),process[_0x5f0234(0x1da)][_0x5f0234(0x1f4)](_0x5f0234(0x1e1)),process['stdout'][_0x5f0234(0x1f4)](_0x5f0234(0x25c)),console[_0x5f0234(0x18f)]('\x0a'),setTimeout(()=>{const _0x43ca6a=_0x5f0234;displayASCIIBanner();const _0x5487f6=((()=>{const _0x225879=_0x3476;try{if(fs[_0x225879(0x242)](ACCOUNTS_FILE))return JSON[_0x225879(0x216)](fs['readFileSync'](ACCOUNTS_FILE,_0x225879(0x20b)));}catch{}return[];})()),_0x31b6a6=_0x5487f6[_0x43ca6a(0x21d)];console[_0x43ca6a(0x18f)](C(_0x43ca6a(0x2a1),'\x20\x20\x20✨\x20')+C(_0x43ca6a(0x29a),_0x43ca6a(0x1b6))+C('38;5;46','✨')),console[_0x43ca6a(0x18f)](C('38;5;51',_0x43ca6a(0x250))+C('38;5;45',String(_0x31b6a6))),console[_0x43ca6a(0x18f)](C(_0x43ca6a(0x2a1),_0x43ca6a(0x18d))+C('38;5;82',_0x43ca6a(0x1b6))+C(_0x43ca6a(0x2a1),'✨')),console[_0x43ca6a(0x18f)](''),setTimeout(()=>{startMain();},0x4b0);},0x12c);}const ACCOUNTS_FILE=_0x80114c(0x18c);class AccountManager{static['loadAccounts'](){const _0x2a5cec=_0x80114c;if(fs[_0x2a5cec(0x242)](ACCOUNTS_FILE))try{const _0x5b151c=fs[_0x2a5cec(0x289)](ACCOUNTS_FILE,_0x2a5cec(0x20b)),_0x5b89f1=JSON[_0x2a5cec(0x216)](_0x5b151c);return _0x5b89f1[_0x2a5cec(0x15e)](_0x239b47=>_0x239b47[_0x2a5cec(0x259)]&&_0x239b47['cookie'][_0x2a5cec(0x19a)](_0x2a5cec(0x1e7)));}catch(_0x1cf36b){return console['error'](_0x2a5cec(0x25f),_0x1cf36b[_0x2a5cec(0x1f9)]),[];}return[];}static[_0x80114c(0x235)](_0x27bc45){const _0x36f271=_0x80114c;try{const _0x2af008=_0x27bc45[_0x36f271(0x15e)](_0x508cda=>_0x508cda&&_0x508cda[_0x36f271(0x259)]&&_0x508cda[_0x36f271(0x259)][_0x36f271(0x19a)](_0x36f271(0x1e7)));fs[_0x36f271(0x16a)](ACCOUNTS_FILE,JSON[_0x36f271(0x1ee)](_0x2af008,null,0x2));}catch(_0x368b33){console[_0x36f271(0x257)](_0x36f271(0x1f7),_0x368b33[_0x36f271(0x1f9)]);}}static async[_0x80114c(0x199)](){const _0x52f079=_0x80114c;try{const _0x1777fe=this[_0x52f079(0x2a0)]();console[_0x52f079(0x18f)](yellow(_0x52f079(0x261))),console[_0x52f079(0x18f)](cyan(_0x52f079(0x187))),console[_0x52f079(0x18f)](green(_0x52f079(0x2af))),console[_0x52f079(0x18f)](cyan(_0x52f079(0x1de))),console[_0x52f079(0x18f)](''),console[_0x52f079(0x18f)](blue(_0x52f079(0x217))),console[_0x52f079(0x18f)](cyan(_0x52f079(0x29d))),console[_0x52f079(0x1a6)](),displayASCIIBanner();const _0x124ae0=await ask(cyan(_0x52f079(0x263)));return console['clear'](),_0x124ae0==='2'?await this[_0x52f079(0x295)](_0x1777fe):await this['singleAddAccount'](_0x1777fe);}catch(_0x5f421b){if(_0x5f421b[_0x52f079(0x1f9)]===_0x52f079(0x2b7))return console[_0x52f079(0x1a6)](),![];if(_0x5f421b[_0x52f079(0x1f9)]===_0x52f079(0x1ce))return console[_0x52f079(0x18f)](red(_0x52f079(0x19d))),![];throw _0x5f421b;}}static async[_0x80114c(0x23b)](_0x49925a){const _0xc4809f=_0x80114c;try{console[_0xc4809f(0x18f)](yellow('[+]\x20➕\x20Add\x20New\x20Facebook\x20Account')),console[_0xc4809f(0x18f)](cyan(_0xc4809f(0x236))),console[_0xc4809f(0x18f)](magenta(_0xc4809f(0x230)));const _0x124a11=await ask(cyan(_0xc4809f(0x1ae)));console[_0xc4809f(0x1a6)]();if(!_0x124a11[_0xc4809f(0x19a)](_0xc4809f(0x1e7))||!_0x124a11[_0xc4809f(0x19a)](_0xc4809f(0x212)))return console[_0xc4809f(0x18f)](red('❌\x20Invalid\x20cookie!\x20Please\x20ensure\x20it\x20contains\x20c_user=\x20and\x20xs=')),![];const _0x4b915f=Date['now'](),_0x5a4662=_0x124a11[_0xc4809f(0x17c)](/c_user=(\d+)/),_0x2c065e=_0x5a4662?_0x5a4662[0x1]:String(_0x4b915f),_0x585aa5={'id':_0x4b915f,'uid':_0x2c065e,'cookie':_0x124a11,'added':new Date()[_0xc4809f(0x19f)](),'status':_0xc4809f(0x1ef),'shareCount':0x0,'successRate':_0xc4809f(0x2b0),'lastShare':null,'cooldown':![],'cooldownUntil':null};return _0x49925a[_0xc4809f(0x268)](_0x585aa5),this[_0xc4809f(0x235)](_0x49925a),console['log'](green('✅\x20Account\x20added\x20successfully!\x20UID:\x20'+_0x2c065e)),console[_0xc4809f(0x18f)](blue('🎉\x20Ready\x20for\x20mass\x20sharing!')),!![];}catch(_0x18787d){if(_0x18787d[_0xc4809f(0x1f9)]==='BACK'||_0x18787d[_0xc4809f(0x1f9)]===_0xc4809f(0x1ce))return console[_0xc4809f(0x1a6)](),![];throw _0x18787d;}}static async[_0x80114c(0x295)](_0x391919){const _0x4f4a5d=_0x80114c;try{console[_0x4f4a5d(0x18f)](yellow('[+]\x20📦\x20Bulk\x20Import\x20Accounts')),console[_0x4f4a5d(0x18f)](cyan(_0x4f4a5d(0x2a4))),console[_0x4f4a5d(0x18f)](magenta(_0x4f4a5d(0x1c1))),console['log'](magenta(_0x4f4a5d(0x2b2))),console[_0x4f4a5d(0x18f)](magenta(_0x4f4a5d(0x22e))),console[_0x4f4a5d(0x18f)](magenta(_0x4f4a5d(0x25b)));let _0x5d8000='',_0x20e642=0x0;while(!![]){const _0xe6867d=await ask(cyan(_0x4f4a5d(0x168)));if(_0xe6867d['trim']()===''){_0x20e642++;if(_0x20e642>=0x1)break;continue;}_0x20e642=0x0,_0x5d8000+=_0xe6867d+'\x0a';}console[_0x4f4a5d(0x1a6)](),displayASCIIBanner();const _0x163423=_0x5d8000['trim']()['split']('\x0a')[_0x4f4a5d(0x15e)](_0x13189c=>_0x13189c[_0x4f4a5d(0x17b)]()['length']>0x0);if(_0x163423['length']===0x0)return console[_0x4f4a5d(0x18f)](red(_0x4f4a5d(0x1d1))),![];console['log'](yellow('\x0a[+]\x20🔄\x20Processing\x20'+_0x163423[_0x4f4a5d(0x21d)]+_0x4f4a5d(0x180)));const _0x1aa39c=[];for(let _0x112c10=0x0;_0x112c10<_0x163423[_0x4f4a5d(0x21d)];_0x112c10++){const _0x53f179=_0x163423[_0x112c10][_0x4f4a5d(0x17b)]();process[_0x4f4a5d(0x1da)][_0x4f4a5d(0x1f4)](cyan(_0x4f4a5d(0x222)+(_0x112c10+0x1)+'/'+_0x163423['length']+_0x4f4a5d(0x196)));if(!_0x53f179[_0x4f4a5d(0x19a)](_0x4f4a5d(0x1e7))||!_0x53f179[_0x4f4a5d(0x19a)](_0x4f4a5d(0x212))){console['log'](red(_0x4f4a5d(0x185))),_0x1aa39c[_0x4f4a5d(0x268)]({'status':_0x4f4a5d(0x1ad),'error':_0x4f4a5d(0x175)});continue;}const _0x16fba1=Date[_0x4f4a5d(0x2a2)]()+_0x112c10,_0x53e72e=_0x53f179[_0x4f4a5d(0x17c)](/c_user=(\d+)/),_0x13caf7=_0x53e72e?_0x53e72e[0x1]:String(_0x16fba1),_0x1bcaea={'id':_0x16fba1,'uid':_0x13caf7,'cookie':_0x53f179,'added':new Date()[_0x4f4a5d(0x19f)](),'status':_0x4f4a5d(0x1ef),'shareCount':0x0,'successRate':_0x4f4a5d(0x2b0),'lastShare':null,'cooldown':![],'cooldownUntil':null};_0x391919[_0x4f4a5d(0x268)](_0x1bcaea),console['log'](green('✅\x20SUCCESS\x20(UID:\x20'+_0x13caf7+')')),_0x1aa39c[_0x4f4a5d(0x268)]({'status':_0x4f4a5d(0x174),'uid':_0x13caf7}),await new Promise(_0x5649e2=>setTimeout(_0x5649e2,0x12c));}this['saveAccounts'](_0x391919);const _0x501018=_0x1aa39c['filter'](_0x1d71d7=>_0x1d71d7[_0x4f4a5d(0x176)]===_0x4f4a5d(0x174))['length'],_0x166e7b=_0x1aa39c[_0x4f4a5d(0x15e)](_0x3e96a4=>_0x3e96a4['status']===_0x4f4a5d(0x28b))['length'],_0x457902=_0x1aa39c[_0x4f4a5d(0x15e)](_0x1e439d=>_0x1e439d['status']===_0x4f4a5d(0x1ad))[_0x4f4a5d(0x21d)];return console['log'](magenta(_0x4f4a5d(0x1df))),console[_0x4f4a5d(0x18f)](magenta(_0x4f4a5d(0x1d5))),console[_0x4f4a5d(0x18f)](magenta(_0x4f4a5d(0x243))),console[_0x4f4a5d(0x18f)](green((_0x4f4a5d(0x165)+_0x501018)[_0x4f4a5d(0x198)](0x3c))),console['log'](red((_0x4f4a5d(0x29f)+_0x166e7b)['padEnd'](0x3c))),console[_0x4f4a5d(0x18f)](yellow((_0x4f4a5d(0x2ad)+_0x457902)[_0x4f4a5d(0x198)](0x3c))),console['log'](blue(('\x20\x20📊\x20TOTAL:\x20\x20\x20\x20\x20\x20'+_0x163423[_0x4f4a5d(0x21d)])[_0x4f4a5d(0x198)](0x3c))),console[_0x4f4a5d(0x18f)](magenta(_0x4f4a5d(0x27a))),_0x501018>0x0;}catch(_0x2c646b){if(_0x2c646b[_0x4f4a5d(0x1f9)]==='BACK'||_0x2c646b[_0x4f4a5d(0x1f9)]===_0x4f4a5d(0x1ce))return console['clear'](),![];throw _0x2c646b;}}static['listAccounts'](){const _0x2d06df=_0x80114c;console[_0x2d06df(0x1a6)](),displayASCIIBanner();const _0x15bb06=this[_0x2d06df(0x2a0)]();if(_0x15bb06[_0x2d06df(0x21d)]===0x0)return console['log'](red('\x0a════════════════════════════════════════════════════════════════════════')),console[_0x2d06df(0x18f)](red(_0x2d06df(0x1d7))),console[_0x2d06df(0x18f)](red(_0x2d06df(0x170))),console['log'](yellow('\x20\x20Use\x20option\x20[1]\x20to\x20add\x20your\x20first\x20account')),console[_0x2d06df(0x18f)](yellow('\x20\x20Ready\x20to\x20add\x20UNLIMITED\x20Facebook\x20accounts!')),console[_0x2d06df(0x18f)](red(_0x2d06df(0x193))),[];console[_0x2d06df(0x18f)](magenta('\x0a════════════════════════════════════════════════════════════════════════')),console[_0x2d06df(0x18f)](magenta('\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20REGISTERED\x20ACCOUNTS\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')),console['log'](magenta(_0x2d06df(0x170))),console[_0x2d06df(0x18f)](cyan(_0x2d06df(0x23a))),console[_0x2d06df(0x18f)](cyan(_0x2d06df(0x181))),_0x15bb06['forEach']((_0x40a60c,_0x47a546)=>{const _0x2edbac=_0x2d06df,_0x2e6c54=_0x40a60c[_0x2edbac(0x176)]===_0x2edbac(0x1ef)?green(_0x2edbac(0x16c)):red(_0x2edbac(0x2b3)),_0x294582=_0x40a60c[_0x2edbac(0x207)]>0x0?(_0x40a60c[_0x2edbac(0x1a4)]+'%')[_0x2edbac(0x198)](0x6):_0x2edbac(0x25d),_0x4be302=_0x40a60c['id'][_0x2edbac(0x211)]()[_0x2edbac(0x267)](0x0,0xc)[_0x2edbac(0x198)](0xc)+_0x2edbac(0x23d),_0x352195=String(_0x40a60c[_0x2edbac(0x207)])[_0x2edbac(0x198)](0x6),_0x393670=_0x40a60c[_0x2edbac(0x164)][_0x2edbac(0x1fe)]('T')[0x0];console['log'](cyan('\x20\x20'+String(_0x47a546+0x1)['padStart'](0x2)+'\x20'+_0x4be302+'\x20\x20'+_0x2e6c54+'\x20'+_0x352195+_0x2edbac(0x1eb)+_0x294582+'\x20'+_0x393670));}),console[_0x2d06df(0x18f)](cyan('\x20\x20──────────────────────────────────────────────────────────────────────'));const _0x5a0f3d=_0x15bb06[_0x2d06df(0x15e)](_0x22ad51=>_0x22ad51[_0x2d06df(0x176)]===_0x2d06df(0x1ef))['length'],_0x9f4c02=_0x15bb06[_0x2d06df(0x1bd)]((_0x8e42c4,_0x4fa289)=>_0x8e42c4+_0x4fa289[_0x2d06df(0x207)],0x0),_0x3dd7b8=_0x15bb06['length']>0x0?(_0x15bb06[_0x2d06df(0x1bd)]((_0x48ccd5,_0xcc8b64)=>_0x48ccd5+(_0xcc8b64['successRate']||0x0),0x0)/_0x15bb06[_0x2d06df(0x21d)])[_0x2d06df(0x223)](0x1):0x0;return console['log'](cyan('\x0a\x20\x20SUMMARY:')),console[_0x2d06df(0x18f)](blue((_0x2d06df(0x21a)+_0x15bb06[_0x2d06df(0x21d)])['padEnd'](0x32))),console['log'](green((_0x2d06df(0x228)+_0x5a0f3d)[_0x2d06df(0x198)](0x32))),console['log'](red((_0x2d06df(0x27d)+(_0x15bb06[_0x2d06df(0x21d)]-_0x5a0f3d))[_0x2d06df(0x198)](0x32))),console[_0x2d06df(0x18f)](yellow((_0x2d06df(0x17e)+_0x9f4c02)['padEnd'](0x32))),console['log'](magenta((_0x2d06df(0x1d3)+_0x3dd7b8+'%')[_0x2d06df(0x198)](0x32))),console[_0x2d06df(0x18f)](magenta(_0x2d06df(0x193))),_0x15bb06;}static async[_0x80114c(0x291)](){const _0x54bc59=_0x80114c;try{console[_0x54bc59(0x1a6)](),displayASCIIBanner();const _0x25ead6=this['listAccounts']();if(_0x25ead6[_0x54bc59(0x21d)]===0x0)return;const _0x1e36a2=cyan(_0x54bc59(0x277)),_0x285263=await ask(_0x1e36a2);console[_0x54bc59(0x1a6)]();const _0x58e5ad=parseInt(_0x285263)-0x1;if(_0x58e5ad<0x0||_0x58e5ad>=_0x25ead6[_0x54bc59(0x21d)]){console['log'](red(_0x54bc59(0x260)));return;}const _0x53cfa7=_0x25ead6[_0x54bc59(0x2a5)](_0x58e5ad,0x1)[0x0];this[_0x54bc59(0x235)](_0x25ead6),console['log'](green(_0x54bc59(0x296)+_0x53cfa7['id']+_0x54bc59(0x22c)));}catch(_0x39a15b){if(_0x39a15b['message']===_0x54bc59(0x2b7)||_0x39a15b[_0x54bc59(0x1f9)]===_0x54bc59(0x1ce)){console[_0x54bc59(0x1a6)]();return;}throw _0x39a15b;}}static async[_0x80114c(0x172)](){const _0x3fae92=_0x80114c;try{const _0x18c012=this[_0x3fae92(0x288)]();if(_0x18c012['length']===0x0)return;const _0x3f4642=cyan('\x0a[+]\x20Select\x20account\x20to\x20toggle\x20(number,\x20b=back):\x20'),_0x2250e=await ask(_0x3f4642);console['clear']();const _0x4cb802=parseInt(_0x2250e)-0x1;if(_0x4cb802<0x0||_0x4cb802>=_0x18c012[_0x3fae92(0x21d)]){console[_0x3fae92(0x18f)](red('❌\x20Invalid\x20selection!'));return;}_0x18c012[_0x4cb802]['status']=_0x18c012[_0x4cb802][_0x3fae92(0x176)]==='active'?_0x3fae92(0x21c):_0x3fae92(0x1ef),this[_0x3fae92(0x235)](_0x18c012);const _0xdd803=_0x18c012[_0x4cb802]['status']===_0x3fae92(0x1ef)?green(_0x3fae92(0x21e)):red('INACTIVE');console[_0x3fae92(0x18f)](green(_0x3fae92(0x296)+_0x18c012[_0x4cb802]['id']+_0x3fae92(0x273)+_0xdd803));}catch(_0x1e72e3){if(_0x1e72e3[_0x3fae92(0x1f9)]===_0x3fae92(0x2b7)||_0x1e72e3['message']===_0x3fae92(0x1ce)){console[_0x3fae92(0x1a6)]();return;}throw _0x1e72e3;}}}function ask(_0x3b8b2d){return new Promise((_0x613f45,_0x462a23)=>{const _0xcbb506=_0x3476;rl[_0xcbb506(0x269)]='',rl[_0xcbb506(0x1b7)](),rl['question'](_0x3b8b2d,_0x431d7f=>{const _0x25d7bf=_0xcbb506;rl[_0x25d7bf(0x269)]='',rl[_0x25d7bf(0x1b7)]();if(_0x431d7f[_0x25d7bf(0x226)]()==='b')_0x462a23(new Error('BACK'));else _0x431d7f[_0x25d7bf(0x226)]()==='s'?(globalStopFlag=!![],_0x462a23(new Error(_0x25d7bf(0x1ce)))):_0x613f45(_0x431d7f);});});}async function getToken(_0x5d621a){return new Promise((_0x14c097,_0x2aac59)=>{const _0x28f8d0=_0x3476,_0x51e1b3={'hostname':'business.facebook.com','path':_0x28f8d0(0x24b),'method':_0x28f8d0(0x1d4),'headers':{'User-Agent':_0x28f8d0(0x1d9),'Referer':_0x28f8d0(0x1e3),'Cookie':_0x5d621a,'Accept':_0x28f8d0(0x1b0),'Accept-Language':_0x28f8d0(0x2a3)}},_0xd9a568=https[_0x28f8d0(0x239)](_0x51e1b3,_0x5f2ad0=>{const _0x9cf066=_0x28f8d0;let _0x3872ea='';_0x5f2ad0['on'](_0x9cf066(0x276),_0x15719d=>_0x3872ea+=_0x15719d),_0x5f2ad0['on']('end',()=>{const _0x10fecb=_0x9cf066,_0x2edf02=_0x3872ea[_0x10fecb(0x17c)](/EAAG\w+/);_0x2edf02?_0x14c097(_0x2edf02[0x0]):_0x2aac59(new Error('Invalid\x20cookie'));});});_0xd9a568['on'](_0x28f8d0(0x257),()=>_0x2aac59(new Error(_0x28f8d0(0x191)))),_0xd9a568['end']();});}async function shareOnce(_0x58feaf,_0x357bd9,_0x38d5ad=null,_0x4f4b3c=0x0){return new Promise(async _0x54fd8c=>{const _0x33a76e=_0x3476;try{let _0x125a8f;try{_0x125a8f=await getToken(_0x58feaf);}catch(_0xa20b82){return _0x54fd8c({'success':![],'error':_0x33a76e(0x298),'accountId':_0x38d5ad});}const _0x5217c4=JSON[_0x33a76e(0x1ee)]({'link':_0x357bd9,'published':0x0,'privacy':{'value':'SELF'}}),_0xcf8f09={'hostname':_0x33a76e(0x231),'path':_0x33a76e(0x1ca)+_0x125a8f,'method':_0x33a76e(0x1ba),'headers':{'Content-Type':_0x33a76e(0x1f3),'User-Agent':_0x33a76e(0x1a7),'Cookie':_0x58feaf}},_0x5185fb=https[_0x33a76e(0x239)](_0xcf8f09,_0x1bd17f=>{const _0x1f123c=_0x33a76e;let _0x1d38bb='';_0x1bd17f['on'](_0x1f123c(0x276),_0x478b33=>_0x1d38bb+=_0x478b33),_0x1bd17f['on'](_0x1f123c(0x294),()=>{const _0x5c2681=_0x1f123c;try{const _0x43a2f4=JSON['parse'](_0x1d38bb);if(_0x43a2f4['id'])_0x54fd8c({'success':!![],'id':_0x43a2f4['id'][_0x5c2681(0x1fe)]('_')[0x1]||_0x43a2f4['id'],'accountId':_0x38d5ad});else{if(_0x43a2f4[_0x5c2681(0x257)]){const _0x3acb53=_0x43a2f4[_0x5c2681(0x257)]?.[_0x5c2681(0x1f9)]||JSON[_0x5c2681(0x1ee)](_0x43a2f4[_0x5c2681(0x257)]),_0x5e08ff=_0x3acb53[_0x5c2681(0x17a)](/Nililimitahan namin/g,'we\x20limit\x20how\x20often')[_0x5c2681(0x17a)](/gaano kadalas/g,_0x5c2681(0x1d0))[_0x5c2681(0x17a)](/nang gamitin ang/g,'')['replace'](/\[.*?\]/g,'')['trim'](),_0x15a097=_0x5e08ff['toLowerCase'](),_0x54a977=_0x15a097[_0x5c2681(0x19a)]('we\x20limit')||_0x15a097[_0x5c2681(0x19a)](_0x5c2681(0x249))||_0x15a097[_0x5c2681(0x19a)](_0x5c2681(0x169))||_0x15a097['includes'](_0x5c2681(0x1d0))||_0x43a2f4[_0x5c2681(0x257)]?.[_0x5c2681(0x233)]===0x11,_0x387a36=_0x15a097['includes'](_0x5c2681(0x15d))||_0x15a097[_0x5c2681(0x19a)](_0x5c2681(0x22d));if(_0x54a977&&_0x4f4b3c<0x2){const _0x53fa5b=(_0x4f4b3c+0x1)*0x3e8+Math['random']()*0x1f4;setTimeout(()=>{const _0x3c45e2=_0x5c2681;shareOnce(_0x58feaf,_0x357bd9,_0x38d5ad,_0x4f4b3c+0x1)[_0x3c45e2(0x1b4)](_0x54fd8c);},_0x53fa5b);}else _0x54fd8c({'success':![],'error':_0x5e08ff||_0x3acb53,'accountId':_0x38d5ad,'isRateLimit':_0x54a977,'isDisabled':_0x387a36});}else _0x54fd8c({'success':![],'error':_0x5c2681(0x26f),'accountId':_0x38d5ad});}}catch(_0x259985){_0x54fd8c({'success':![],'error':_0x5c2681(0x286),'accountId':_0x38d5ad});}});});_0x5185fb['on']('error',()=>{const _0x10a1e6=_0x33a76e;_0x54fd8c({'success':![],'error':_0x10a1e6(0x191),'accountId':_0x38d5ad});}),_0x5185fb[_0x33a76e(0x1f4)](_0x5217c4),_0x5185fb[_0x33a76e(0x294)]();}catch(_0xce311c){_0x54fd8c({'success':![],'error':_0x33a76e(0x184),'accountId':_0x38d5ad});}});}class ProgressTracker{constructor(_0xe8d4cd,_0x3672ca){const _0x6148d8=_0x80114c;this['totalShares']=_0xe8d4cd,this[_0x6148d8(0x2aa)]=0x0,this[_0x6148d8(0x174)]=0x0,this[_0x6148d8(0x28b)]=0x0,this[_0x6148d8(0x21f)]=0x0,this[_0x6148d8(0x246)]=new Map(),this[_0x6148d8(0x221)]=_0x3672ca,this[_0x6148d8(0x1c8)]=Date['now'](),this[_0x6148d8(0x264)]=null,this['lastShareInfo']=null,_0x3672ca[_0x6148d8(0x166)](_0x640d9f=>{const _0x21b519=_0x6148d8;this[_0x21b519(0x246)]['set'](_0x640d9f['id'],{'completed':0x0,'success':0x0,'failed':0x0});});}['recordResult'](_0x3060ac,_0x59ef06,_0x51ec04,_0x1db813,_0x39d96a,_0x39613f=''){const _0xe875a4=_0x80114c;this[_0xe875a4(0x2aa)]++,this[_0xe875a4(0x21f)]++,_0x59ef06?this[_0xe875a4(0x174)]++:this[_0xe875a4(0x28b)]++,this[_0xe875a4(0x20f)](_0x3060ac,_0x59ef06,_0x51ec04,_0x1db813,_0x39d96a,_0x39613f);}[_0x80114c(0x1a3)](){}[_0x80114c(0x1c0)](){}[_0x80114c(0x20f)](_0x3877ca,_0x127b2b,_0x34a5cc,_0x24c2a7,_0x457a66,_0x25a075=''){const _0x38b4e8=_0x80114c,_0x227b5f=_0x127b2b?green(_0x38b4e8(0x258)):red(_0x38b4e8(0x1c4)),_0x547194=_0x25a075?red('\x20['+_0x25a075[_0x38b4e8(0x267)](0x0,0x23)+']'):'';console[_0x38b4e8(0x18f)](cyan('['+String(this['globalCounter'])[_0x38b4e8(0x234)](0x4)+']\x20')+red('[SHARER]\x20')+blue(_0x3877ca+'_'+_0x34a5cc+'\x20')+magenta(_0x24c2a7+'/'+_0x457a66+'\x20')+(_0x38b4e8(0x281)+_0x227b5f+_0x547194));}[_0x80114c(0x18b)](){const _0x530d94=_0x80114c,_0xd5cd85=(Date[_0x530d94(0x2a2)]()-this[_0x530d94(0x1c8)])/0x3e8;return{'totalShares':this[_0x530d94(0x2a6)],'completed':this[_0x530d94(0x2aa)],'success':this[_0x530d94(0x174)],'failed':this[_0x530d94(0x28b)],'duration':_0xd5cd85,'durationFormatted':_0xd5cd85[_0x530d94(0x223)](0x1)};}}async function runAccountShares(_0x589b67,_0xff71f8,_0x3df43d,_0x4f9f09,_0x1bcf55){const _0x13f169=_0x80114c,_0x1d8498=0x32,_0x24c867=[];let _0x16da9a=![];for(let _0x42ce22=0x1;_0x42ce22<=_0x3df43d;_0x42ce22++){if(globalStopFlag||_0x16da9a)break;const _0x35c5e9=(async _0x44e211=>{const _0x103dbc=await shareOnce(_0x589b67['cookie'],_0xff71f8,_0x589b67['id'],0x0);await _0x1bcf55(async()=>{const _0x1c4add=_0x3476;_0x103dbc['success']?(_0x589b67[_0x1c4add(0x207)]++,_0x589b67['lastShare']=new Date()[_0x1c4add(0x19f)](),_0x4f9f09[_0x1c4add(0x220)](_0x589b67[_0x1c4add(0x1f8)],!![],_0x103dbc['id'],_0x44e211,_0x3df43d)):(_0x4f9f09[_0x1c4add(0x220)](_0x589b67['uid'],![],_0x1c4add(0x210),_0x44e211,_0x3df43d,_0x103dbc[_0x1c4add(0x257)]||'Unknown'),_0x103dbc['isRateLimit']&&(_0x589b67[_0x1c4add(0x160)]=!![],_0x589b67[_0x1c4add(0x17f)]=new Date(Date['now']()+0x1b7740)[_0x1c4add(0x19f)](),_0x16da9a=!![]),_0x103dbc[_0x1c4add(0x22a)]&&(_0x589b67[_0x1c4add(0x176)]=_0x1c4add(0x192),_0x589b67[_0x1c4add(0x160)]=![],_0x16da9a=!![]));});})(_0x42ce22);_0x24c867[_0x13f169(0x268)](_0x35c5e9),_0x24c867[_0x13f169(0x21d)]>=_0x1d8498&&(await Promise[_0x13f169(0x247)](_0x24c867),_0x24c867[_0x13f169(0x2a5)](0x0,0x1));}await Promise['all'](_0x24c867);}async function massShare(){const _0x2500b9=_0x80114c;try{console['clear'](),displayASCIIBanner();const _0x5ece2f=AccountManager[_0x2500b9(0x2a0)](),_0x1df1ac=new Date(),_0x2bed59=_0x5ece2f[_0x2500b9(0x15e)](_0x115c6a=>{const _0x3f0b13=_0x2500b9;if(_0x115c6a[_0x3f0b13(0x176)]!==_0x3f0b13(0x1ef))return![];if(!_0x115c6a[_0x3f0b13(0x1f8)]&&_0x115c6a[_0x3f0b13(0x259)]){const _0x3f95a8=_0x115c6a[_0x3f0b13(0x259)][_0x3f0b13(0x17c)](/c_user=(\d+)/);_0x115c6a[_0x3f0b13(0x1f8)]=_0x3f95a8?_0x3f95a8[0x1]:String(_0x115c6a['id']);}if(_0x115c6a[_0x3f0b13(0x160)]&&_0x115c6a['cooldownUntil']){const _0x43ec7d=new Date(_0x115c6a[_0x3f0b13(0x17f)]);if(_0x1df1ac<_0x43ec7d)return![];_0x115c6a[_0x3f0b13(0x160)]=![],_0x115c6a[_0x3f0b13(0x17f)]=null;}return!![];});if(_0x2bed59[_0x2500b9(0x21d)]===0x0){console['log'](red(_0x2500b9(0x161))),console[_0x2500b9(0x18f)](yellow(_0x2500b9(0x28d)));return;}const _0x3d6890=(await ask(cyan(_0x2500b9(0x162))))[_0x2500b9(0x17b)]();console['clear'](),displayASCIIBanner();const _0xd821e1=(await ask(cyan(_0x2500b9(0x2ac))))['trim']();console['clear']();const _0x3d1e0a=parseInt(_0xd821e1);if(isNaN(_0x3d1e0a)||_0x3d1e0a<0x1||_0x3d1e0a>0xfa0){console['log'](red('❌\x20Invalid\x20shares!\x20Must\x20be\x20between\x201-4000'));return;}const _0x4d19a1=_0x2bed59[_0x2500b9(0x21d)]*_0x3d1e0a;console[_0x2500b9(0x18f)](yellow(_0x2500b9(0x1fc))),console['log'](cyan(_0x2500b9(0x1aa)+_0x2bed59[_0x2500b9(0x21d)])),console[_0x2500b9(0x18f)](cyan('\x20\x20\x20🔢\x20Shares\x20per\x20account:\x20'+_0x3d1e0a)),console[_0x2500b9(0x18f)](cyan(_0x2500b9(0x1c2)+_0x4d19a1)),console[_0x2500b9(0x18f)](green(_0x2500b9(0x2ab))),console['log'](magenta('\x20\x20\x20💥\x20ESTIMATED\x20TIME:\x20~'+(_0x4d19a1*0x32/0x3e8)[_0x2500b9(0x223)](0x0)+'\x20seconds'));const _0x19076a=(await ask(cyan(_0x2500b9(0x200))))[_0x2500b9(0x17b)]();if(_0x19076a[_0x2500b9(0x226)]()!=='y'){console[_0x2500b9(0x18f)](yellow(_0x2500b9(0x29c)));return;}const _0x57aedf=new ProgressTracker(_0x4d19a1,_0x2bed59);let _0x4bc4c3=Promise['resolve']();const _0x1cd22e=_0x65d07=>{const _0x179359=_0x2500b9;return _0x4bc4c3=_0x4bc4c3[_0x179359(0x1b4)](_0x65d07),_0x4bc4c3;};console[_0x2500b9(0x18f)](yellow(_0x2500b9(0x1e5))),console[_0x2500b9(0x18f)](magenta(_0x2500b9(0x2b8))),_0x57aedf[_0x2500b9(0x1a3)]();try{await Promise[_0x2500b9(0x1cf)](_0x2bed59['map'](_0x49a4de=>runAccountShares(_0x49a4de,_0x3d6890,_0x3d1e0a,_0x57aedf,_0x1cd22e)));}finally{_0x57aedf[_0x2500b9(0x1c0)]();}const _0x54b634=_0x57aedf[_0x2500b9(0x18b)]();AccountManager['saveAccounts'](_0x5ece2f),console[_0x2500b9(0x18f)]('\x0a'),console[_0x2500b9(0x18f)](magenta(_0x2500b9(0x1fb))),console[_0x2500b9(0x18f)](magenta(_0x2500b9(0x1c3))),console[_0x2500b9(0x18f)](magenta('═════════════════════════════════════════════════════════════════════════')),console[_0x2500b9(0x18f)](green((_0x2500b9(0x1d6)+_0x54b634['success'])[_0x2500b9(0x198)](0x3c))),console[_0x2500b9(0x18f)](red((_0x2500b9(0x1b5)+_0x54b634[_0x2500b9(0x28b)])[_0x2500b9(0x198)](0x3c)));const _0x39a25c=_0x54b634['success']+_0x54b634['failed']>0x0?(_0x54b634[_0x2500b9(0x174)]/(_0x54b634['success']+_0x54b634[_0x2500b9(0x28b)])*0x64)[_0x2500b9(0x223)](0x1):0x0;console[_0x2500b9(0x18f)](yellow((_0x2500b9(0x1ed)+_0x39a25c+'%')[_0x2500b9(0x198)](0x3c))),console[_0x2500b9(0x18f)](blue((_0x2500b9(0x1d8)+_0x54b634[_0x2500b9(0x1ac)]+_0x2500b9(0x20e)+(_0x54b634['duration']/0x3c)['toFixed'](0x1)+'\x20min)')['padEnd'](0x3c)));const _0xdb2e95=_0x54b634[_0x2500b9(0x1c6)]>0x0?(_0x54b634['success']/_0x54b634[_0x2500b9(0x1c6)])['toFixed'](0x1):'N/A';console[_0x2500b9(0x18f)](magenta((_0x2500b9(0x1bf)+_0xdb2e95+_0x2500b9(0x206))[_0x2500b9(0x198)](0x3c))),console[_0x2500b9(0x18f)](cyan((_0x2500b9(0x271)+_0x2bed59[_0x2500b9(0x21d)])[_0x2500b9(0x198)](0x3c))),console['log'](magenta(_0x2500b9(0x2b4))),console[_0x2500b9(0x18f)](C('38;5;51','\x20\x20⚡\x20FAST\x20MODE\x20COMPLETE!\x20⚡')),console[_0x2500b9(0x18f)](C(_0x2500b9(0x1bb),_0x2500b9(0x1fa))),console[_0x2500b9(0x18f)](magenta(_0x2500b9(0x299)));}catch(_0x57640b){if(_0x57640b['message']===_0x2500b9(0x2b7)){console[_0x2500b9(0x1a6)]();return;}if(_0x57640b['message']===_0x2500b9(0x1ce)){console['clear']();return;}throw _0x57640b;}}async function checkAccountLive(_0x18ebad,_0x55a76c){const _0x575470=_0x80114c,_0x57a826=await shareOnce(_0x55a76c,_0x575470(0x203),null,0x0);return _0x57a826[_0x575470(0x174)]?{'alive':!![],'name':_0x575470(0x1a8)}:{'alive':![],'error':_0x57a826[_0x575470(0x257)]};}async function checkAllAccountsLive(){const _0x152513=_0x80114c;try{console[_0x152513(0x1a6)](),displayASCIIBanner();const _0x3dce48=AccountManager['loadAccounts']();if(_0x3dce48[_0x152513(0x21d)]===0x0){console[_0x152513(0x18f)](red(_0x152513(0x18e)));return;}const _0x34bd9a=new Date();let _0x74881=0x0;const _0x38a1fb=_0x3dce48[_0x152513(0x23c)](_0x3c92b2=>{const _0x55070a=_0x152513;let _0x2f9e17={..._0x3c92b2},_0x2af023=![],_0x461f3e='ACTIVE';if(_0x3c92b2[_0x55070a(0x160)]&&_0x3c92b2['cooldownUntil']){const _0x955950=new Date(_0x3c92b2[_0x55070a(0x17f)]);_0x34bd9a<_0x955950?(_0x2af023=!![],_0x461f3e='Rate\x20Limited\x20(Cooldown)'):(_0x3c92b2['cooldown']=![],_0x3c92b2['cooldownUntil']=null,_0x74881++,_0x461f3e=_0x3c92b2['status']==='active'?_0x55070a(0x21e):_0x55070a(0x215));}else _0x461f3e=_0x3c92b2[_0x55070a(0x176)]===_0x55070a(0x1ef)?_0x55070a(0x21e):_0x55070a(0x215);return _0x2f9e17[_0x55070a(0x290)]=_0x2af023,_0x2f9e17[_0x55070a(0x1ff)]=_0x461f3e,_0x2f9e17[_0x55070a(0x22b)]=_0x3c92b2[_0x55070a(0x176)]===_0x55070a(0x1ef)||_0x2af023,_0x2f9e17;});_0x74881>0x0&&AccountManager['saveAccounts'](_0x3dce48);console['clear'](),displayASCIIBanner(),console['log'](magenta(_0x152513(0x1fb))),console[_0x152513(0x18f)](magenta(_0x152513(0x16e))),console[_0x152513(0x18f)](magenta('═════════════════════════════════════════════════════════════════════════'));const _0x26cf3b=_0x38a1fb['filter'](_0x520ee2=>_0x520ee2[_0x152513(0x22b)]&&!_0x520ee2[_0x152513(0x290)])['length'],_0x19a352=_0x38a1fb[_0x152513(0x15e)](_0x3f5c91=>!_0x3f5c91[_0x152513(0x22b)]&&!_0x3f5c91[_0x152513(0x290)])[_0x152513(0x21d)],_0x486c04=_0x38a1fb['filter'](_0x87b73b=>_0x87b73b[_0x152513(0x290)])[_0x152513(0x21d)];console[_0x152513(0x18f)](green(('\x20\x20✅\x20ACTIVE\x20ACCOUNTS:\x20\x20\x20\x20\x20'+_0x26cf3b)[_0x152513(0x198)](0x3c))),console[_0x152513(0x18f)](red((_0x152513(0x26e)+_0x19a352)['padEnd'](0x3c))),console[_0x152513(0x18f)](yellow((_0x152513(0x27b)+_0x486c04)['padEnd'](0x3c))),console[_0x152513(0x18f)](cyan(('\x20\x20📊\x20TOTAL\x20ACCOUNTS:\x20\x20\x20\x20\x20'+_0x38a1fb[_0x152513(0x21d)])[_0x152513(0x198)](0x3c))),console['log'](magenta('\x0a\x20\x20DETAILED\x20STATUS:')),console['log'](magenta(_0x152513(0x2b6))),_0x38a1fb[_0x152513(0x166)]((_0x51b887,_0x261a01)=>{const _0x484c2c=_0x152513;let _0x1ac26a;if(_0x51b887[_0x484c2c(0x290)]){_0x1ac26a=yellow(_0x484c2c(0x20d));const _0x4533b4=new Date(_0x51b887[_0x484c2c(0x17f)])-_0x34bd9a,_0x1b2345=Math[_0x484c2c(0x27c)](_0x4533b4/0xea60);console[_0x484c2c(0x18f)](cyan(('\x20\x20'+String(_0x261a01+0x1)[_0x484c2c(0x198)](0x2)+'.\x20'+String(_0x51b887['id'])[_0x484c2c(0x267)](0x0,0xc)+_0x484c2c(0x1ea)+_0x1ac26a+_0x484c2c(0x219)+_0x1b2345+_0x484c2c(0x19c))[_0x484c2c(0x198)](0x46)));}else _0x51b887[_0x484c2c(0x22b)]?(_0x1ac26a=green(_0x484c2c(0x163)),console[_0x484c2c(0x18f)](cyan(('\x20\x20'+String(_0x261a01+0x1)[_0x484c2c(0x198)](0x2)+'.\x20'+String(_0x51b887['id'])[_0x484c2c(0x267)](0x0,0xc)+_0x484c2c(0x1ea)+_0x1ac26a)[_0x484c2c(0x198)](0x46)))):(_0x1ac26a=red(_0x484c2c(0x283)),console['log'](cyan(('\x20\x20'+String(_0x261a01+0x1)[_0x484c2c(0x198)](0x2)+'.\x20'+String(_0x51b887['id'])[_0x484c2c(0x267)](0x0,0xc)+'...\x20'+_0x1ac26a)['padEnd'](0x46))));}),console['log'](magenta('═════════════════════════════════════════════════════════════════════════\x0a'));if(_0x19a352>0x0){const _0x43084e=await ask(cyan('[+]\x20❓\x20Remove\x20disabled\x20accounts?\x20(y/N,\x20b=back):\x20'));console[_0x152513(0x1a6)]();if(_0x43084e['toLowerCase']()==='y'){const _0x31ae04=_0x3dce48[_0x152513(0x15e)](_0x34888c=>{const _0x15927c=_0x152513,_0x5bc472=_0x38a1fb['find'](_0x2fa8bc=>_0x2fa8bc['id']===_0x34888c['id']);return _0x5bc472&&(_0x5bc472[_0x15927c(0x22b)]||_0x5bc472[_0x15927c(0x290)]);});AccountManager[_0x152513(0x235)](_0x31ae04),console[_0x152513(0x18f)](green(_0x152513(0x24a)+_0x19a352+_0x152513(0x1b8)));}}}catch(_0x1c80f8){if(_0x1c80f8['message']===_0x152513(0x2b7)||_0x1c80f8[_0x152513(0x1f9)]===_0x152513(0x1ce)){console['clear']();return;}throw _0x1c80f8;}}async function singleShare(){const _0x33d9e7=_0x80114c;try{console[_0x33d9e7(0x1a6)](),displayASCIIBanner();const _0x34b716=AccountManager[_0x33d9e7(0x288)]();if(_0x34b716['length']===0x0)return;const _0x11976e=await ask(cyan(_0x33d9e7(0x297)));console[_0x33d9e7(0x1a6)]();const _0x34df9f=parseInt(_0x11976e)-0x1;if(_0x34df9f<0x0||_0x34df9f>=_0x34b716[_0x33d9e7(0x21d)]){console[_0x33d9e7(0x18f)](red('❌\x20Invalid\x20selection!'));return;}const _0x36c20d=_0x34b716[_0x34df9f];if(_0x36c20d[_0x33d9e7(0x176)]!==_0x33d9e7(0x1ef)){console[_0x33d9e7(0x18f)](red(_0x33d9e7(0x2a7)+_0x36c20d['id']+_0x33d9e7(0x1dd)));return;}const _0x30d034=await ask(cyan(_0x33d9e7(0x1e6)));console[_0x33d9e7(0x1a6)](),displayASCIIBanner();const _0x41a787=await ask(cyan('[+]\x20🔢\x20Number\x20of\x20shares\x20(1-4000,\x20b=back):\x20'));console[_0x33d9e7(0x1a6)]();const _0x2d8045=parseInt(_0x41a787);if(isNaN(_0x2d8045)||_0x2d8045<0x1||_0x2d8045>0xfa0){console[_0x33d9e7(0x18f)](red(_0x33d9e7(0x205)));return;}console[_0x33d9e7(0x18f)](yellow('\x0a[+]\x20🚀\x20Starting\x20'+_0x2d8045+_0x33d9e7(0x253)+(_0x34df9f+0x1)+_0x33d9e7(0x23d))),console[_0x33d9e7(0x18f)](cyan(_0x33d9e7(0x266)+_0x36c20d['id'])),console[_0x33d9e7(0x18f)](cyan(_0x33d9e7(0x270)+_0x30d034+'\x0a'));let _0x2277a2=0x0;for(let _0x1c771c=0x1;_0x1c771c<=_0x2d8045;_0x1c771c++){if(globalStopFlag){console[_0x33d9e7(0x18f)](red(_0x33d9e7(0x19e)));break;}await new Promise(_0x11d795=>setTimeout(_0x11d795,0x3e8+Math[_0x33d9e7(0x16f)]()*0x7d0));const _0x3f6262=await shareOnce(_0x36c20d[_0x33d9e7(0x259)],_0x30d034,_0x36c20d['id'],0x0);_0x3f6262[_0x33d9e7(0x174)]?(console[_0x33d9e7(0x18f)](green('✅\x20SUCCESS\x20'+_0x1c771c+'/'+_0x2d8045+_0x33d9e7(0x197)+_0x3f6262['id'])),_0x2277a2++,_0x36c20d[_0x33d9e7(0x207)]++,_0x36c20d['lastShare']=new Date()[_0x33d9e7(0x19f)]()):console[_0x33d9e7(0x18f)](red(_0x33d9e7(0x186)+_0x1c771c+'/'+_0x2d8045+'\x20|\x20'+_0x3f6262['error']));}AccountManager[_0x33d9e7(0x235)](_0x34b716),console['log'](cyan(_0x33d9e7(0x1fb))),console[_0x33d9e7(0x18f)](cyan('\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20SINGLE\x20SHARE\x20COMPLETED!\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')),console[_0x33d9e7(0x18f)](cyan(_0x33d9e7(0x2b4))),console['log'](green(_0x33d9e7(0x27f)['padEnd'](0x3c))),console[_0x33d9e7(0x18f)](cyan((_0x33d9e7(0x1ed)+(_0x2277a2/_0x2d8045*0x64)[_0x33d9e7(0x223)](0x1)+'%')['padEnd'](0x3c))),console[_0x33d9e7(0x18f)](blue((_0x33d9e7(0x26d)+_0x36c20d['id'])['padEnd'](0x3c))),console[_0x33d9e7(0x18f)](yellow((_0x33d9e7(0x1c5)+_0x30d034[_0x33d9e7(0x267)](0x0,0x32)+_0x33d9e7(0x23d))[_0x33d9e7(0x198)](0x3c))),console[_0x33d9e7(0x18f)](cyan(_0x33d9e7(0x2b4))),console[_0x33d9e7(0x18f)](C('38;5;51',_0x33d9e7(0x1fa))),console['log'](cyan(_0x33d9e7(0x299)));}catch(_0x24cc2e){if(_0x24cc2e[_0x33d9e7(0x1f9)]===_0x33d9e7(0x2b7)||_0x24cc2e[_0x33d9e7(0x1f9)]==='STOP'){console[_0x33d9e7(0x1a6)]();return;}throw _0x24cc2e;}}function clearScreen(){return new Promise(_0x421f61=>{const _0x34a359=_0x3476;console[_0x34a359(0x1a6)](),process['stdout'][_0x34a359(0x1f4)](_0x34a359(0x28a)),setTimeout(()=>_0x421f61(),0x32);});}function applyGradient(_0x47cb95){const _0x274b6a=_0x80114c,_0x44a8ea=[_0x274b6a(0x1d2),'38;5;45','38;5;39',_0x274b6a(0x1b1),_0x274b6a(0x1b3),'38;5;165',_0x274b6a(0x190),_0x274b6a(0x1bc)];let _0xd3289='';for(let _0x1e8f57=0x0;_0x1e8f57<_0x47cb95[_0x274b6a(0x21d)];_0x1e8f57++){const _0x5e9cb9=_0x47cb95[_0x1e8f57],_0x20b03d=Math[_0x274b6a(0x20a)](_0x1e8f57/_0x47cb95['length']*_0x44a8ea[_0x274b6a(0x21d)]),_0x2b4539=_0x44a8ea[Math[_0x274b6a(0x213)](_0x20b03d,_0x44a8ea[_0x274b6a(0x21d)]-0x1)];_0xd3289+=C(_0x2b4539,_0x5e9cb9);}return _0xd3289;}function applyAnimatedGradient(_0x5efaa4){const _0x3b1821=_0x80114c,_0x142468=['38;5;129',_0x3b1821(0x248),_0x3b1821(0x1f0),_0x3b1821(0x244),'38;5;213',_0x3b1821(0x195),_0x3b1821(0x2ae),_0x3b1821(0x237),_0x3b1821(0x274),'38;5;51','38;5;45','38;5;39','38;5;153',_0x3b1821(0x241),_0x3b1821(0x284)],_0x180a30=Math[_0x3b1821(0x20a)](Date[_0x3b1821(0x2a2)]()/0x64%_0x142468[_0x3b1821(0x21d)]);let _0x1f25de='';for(let _0x4385fb=0x0;_0x4385fb<_0x5efaa4[_0x3b1821(0x21d)];_0x4385fb++){const _0x11c1d5=_0x5efaa4[_0x4385fb],_0x1f95ad=Math['floor'](_0x4385fb/_0x5efaa4['length']*_0x142468[_0x3b1821(0x21d)]),_0x46686e=(_0x1f95ad+_0x180a30)%_0x142468['length'],_0x157730=_0x142468[_0x46686e];_0x1f25de+=C(_0x157730,_0x11c1d5);}return _0x1f25de;}function getAnimatedMenuTitle(){const _0x25c394=_0x80114c,_0x2d5280=[_0x25c394(0x1d2),_0x25c394(0x1bb),'38;5;39',_0x25c394(0x1b1),_0x25c394(0x1b3),_0x25c394(0x1f1),_0x25c394(0x190),_0x25c394(0x1bc)],_0x104072=_0x25c394(0x265);let _0x4b19ce=0x0,_0x3641ac='';for(let _0x41d79a=0x0;_0x41d79a<_0x104072[_0x25c394(0x21d)];_0x41d79a++){const _0x43c1aa=_0x104072[_0x41d79a],_0x5f0181=_0x2d5280[_0x4b19ce%_0x2d5280['length']];_0x3641ac+=C(_0x5f0181,_0x43c1aa),_0x4b19ce++;}return _0x3641ac;}async function showMenu(){const _0x4be9fb=_0x80114c,_0x3f70f6=AccountManager[_0x4be9fb(0x2a0)](),_0x5a1306=_0x3f70f6[_0x4be9fb(0x21d)];console['log'](magenta(_0x4be9fb(0x229))),console[_0x4be9fb(0x18f)](magenta('│\x20')+applyGradient(_0x4be9fb(0x1a1))+C(_0x4be9fb(0x177),String(_0x5a1306)['padEnd'](0x2))+magenta(_0x4be9fb(0x272))),console['log'](magenta(_0x4be9fb(0x201))),console[_0x4be9fb(0x18f)](magenta('│\x20')+applyAnimatedGradient(_0x4be9fb(0x28e))+magenta(_0x4be9fb(0x26a))),console[_0x4be9fb(0x18f)](magenta('│\x20')+applyAnimatedGradient(_0x4be9fb(0x183))+magenta('\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│')),console[_0x4be9fb(0x18f)](magenta('│\x20')+applyAnimatedGradient('[3]\x20Remove\x20Account\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│\x20[7]\x20Check\x20Live\x20Status')+magenta(_0x4be9fb(0x1e4))),console[_0x4be9fb(0x18f)](magenta('│\x20')+applyAnimatedGradient(_0x4be9fb(0x1e2))+magenta(_0x4be9fb(0x17d))),console['log'](magenta('│\x20')+applyAnimatedGradient(_0x4be9fb(0x1a5))+magenta('\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│')),console[_0x4be9fb(0x18f)](magenta(_0x4be9fb(0x201))),console[_0x4be9fb(0x18f)](magenta(_0x4be9fb(0x280))+applyAnimatedGradient(_0x4be9fb(0x1ec))+magenta(_0x4be9fb(0x16b))),console[_0x4be9fb(0x18f)](magenta(_0x4be9fb(0x225))),console[_0x4be9fb(0x18f)]('');}async function testAllAccounts(){const _0x232747=_0x80114c;try{let _0x15c6e9=AccountManager[_0x232747(0x2a0)]();if(!_0x15c6e9||_0x15c6e9[_0x232747(0x21d)]===0x0){console[_0x232747(0x18f)](red(_0x232747(0x1af)));return;}console[_0x232747(0x1a6)](),displayASCIIBanner();const _0x36d398=(await ask(cyan(_0x232747(0x25a))))[_0x232747(0x17b)]();console[_0x232747(0x1a6)](),displayASCIIBanner();if(!_0x36d398||_0x36d398[_0x232747(0x226)]()==='b')return;console[_0x232747(0x18f)](yellow(_0x232747(0x24e)+_0x36d398+')\x0a'));const _0x20227e=Date[_0x232747(0x2a2)](),_0x576f45=new Map(),_0x45e904=_0x15c6e9[_0x232747(0x23c)]((_0x33c55a,_0x72647d)=>((async()=>{const _0x1fff97=_0x232747;if(!_0x33c55a||!_0x33c55a[_0x1fff97(0x259)])return;process[_0x1fff97(0x1da)][_0x1fff97(0x1f4)](cyan(_0x1fff97(0x238)+String(_0x72647d+0x1)[_0x1fff97(0x234)](0x2)+'/'+_0x15c6e9[_0x1fff97(0x21d)]+_0x1fff97(0x1ea)));const _0x306f67=await shareOnce(_0x33c55a[_0x1fff97(0x259)],_0x36d398,_0x33c55a['id'],0x0);let _0x8df4a1,_0x3a2606;if(_0x306f67['success'])_0x8df4a1=_0x1fff97(0x171),_0x3a2606=green(_0x1fff97(0x22f)),_0x33c55a[_0x1fff97(0x176)]=_0x1fff97(0x1ef),_0x33c55a[_0x1fff97(0x207)]++,_0x33c55a[_0x1fff97(0x255)]=new Date()['toISOString'](),console[_0x1fff97(0x18f)](green(_0x1fff97(0x27e)));else{const _0x268842=(_0x306f67[_0x1fff97(0x257)]||'')[_0x1fff97(0x226)]();if(_0x268842['includes'](_0x1fff97(0x15d))||_0x268842[_0x1fff97(0x19a)](_0x1fff97(0x22d)))_0x8df4a1=_0x1fff97(0x192),_0x3a2606=red(_0x1fff97(0x215)),_0x33c55a[_0x1fff97(0x176)]=_0x1fff97(0x192),console[_0x1fff97(0x18f)](red(_0x1fff97(0x1e8)+_0x306f67[_0x1fff97(0x257)]+')'));else _0x268842[_0x1fff97(0x19a)](_0x1fff97(0x293))||_0x268842[_0x1fff97(0x19a)](_0x1fff97(0x249))||_0x268842[_0x1fff97(0x19a)](_0x1fff97(0x169))||_0x268842['includes']('frequency')||_0x268842[_0x1fff97(0x19a)](_0x1fff97(0x227))?(_0x8df4a1=_0x1fff97(0x1f2),_0x3a2606=yellow(_0x1fff97(0x20c)),_0x33c55a['cooldown']=!![],_0x33c55a[_0x1fff97(0x17f)]=new Date(Date[_0x1fff97(0x2a2)]()+0x1b7740)[_0x1fff97(0x19f)](),console[_0x1fff97(0x18f)](yellow(_0x1fff97(0x287)+_0x306f67['error']+')'))):(_0x8df4a1=_0x1fff97(0x257),_0x3a2606=red(_0x1fff97(0x26c)+_0x306f67[_0x1fff97(0x257)]),console[_0x1fff97(0x18f)](red(_0x1fff97(0x218)+_0x306f67[_0x1fff97(0x257)])));}_0x576f45[_0x1fff97(0x15f)](_0x72647d,{'uid':_0x33c55a[_0x1fff97(0x1f8)],'status':_0x8df4a1,'statusText':_0x3a2606});})()));await Promise[_0x232747(0x1cf)](_0x45e904);const _0x42958d=Array[_0x232747(0x2b1)](_0x576f45['values']()),_0x542b8e=((Date[_0x232747(0x2a2)]()-_0x20227e)/0x3e8)[_0x232747(0x223)](0x1);AccountManager['saveAccounts'](_0x15c6e9),console[_0x232747(0x18f)](magenta(_0x232747(0x1fb))),console['log'](magenta(_0x232747(0x25e))),console['log'](magenta(_0x232747(0x2b4)));const _0x3f581b=_0x42958d[_0x232747(0x15e)](_0x5d0c54=>_0x5d0c54[_0x232747(0x176)]===_0x232747(0x171))[_0x232747(0x21d)],_0x463e5b=_0x42958d['filter'](_0x9b4b53=>_0x9b4b53['status']===_0x232747(0x192))[_0x232747(0x21d)],_0x31c0d4=_0x42958d[_0x232747(0x15e)](_0x3dc7de=>_0x3dc7de[_0x232747(0x176)]==='limited')[_0x232747(0x21d)],_0x3fbd65=_0x42958d[_0x232747(0x15e)](_0x2aba00=>_0x2aba00[_0x232747(0x176)]===_0x232747(0x257))[_0x232747(0x21d)];console['log'](green(('\x20\x20✅\x20WORKING:\x20\x20\x20\x20\x20\x20'+_0x3f581b)[_0x232747(0x198)](0x3c))),console[_0x232747(0x18f)](red((_0x232747(0x24f)+_0x463e5b)[_0x232747(0x198)](0x3c))),console['log'](yellow(('\x20\x20🔴\x20LIMITED:\x20\x20\x20\x20\x20\x20'+_0x31c0d4)[_0x232747(0x198)](0x3c))),console['log'](red((_0x232747(0x1a0)+_0x3fbd65)[_0x232747(0x198)](0x3c))),console[_0x232747(0x18f)](blue((_0x232747(0x26b)+_0x42958d[_0x232747(0x21d)])[_0x232747(0x198)](0x3c))),console[_0x232747(0x18f)](cyan((_0x232747(0x16d)+_0x542b8e+'s')['padEnd'](0x3c))),console[_0x232747(0x18f)](magenta(_0x232747(0x29e))),_0x42958d[_0x232747(0x166)]((_0x1ce788,_0x200cf1)=>{const _0x242cff=_0x232747;let _0x3adb28,_0x37f6dd;if(_0x1ce788[_0x242cff(0x176)]===_0x242cff(0x171))_0x3adb28=green('✅'),_0x37f6dd=green('WORKING');else{if(_0x1ce788['status']===_0x242cff(0x192))_0x3adb28=red('🚫'),_0x37f6dd=red('DISABLED');else _0x1ce788[_0x242cff(0x176)]===_0x242cff(0x1f2)?(_0x3adb28=yellow('🔴'),_0x37f6dd=yellow(_0x242cff(0x20c))):(_0x3adb28=red('❌'),_0x37f6dd=red(_0x242cff(0x210)));}console[_0x242cff(0x18f)](magenta('\x20\x20'+String(_0x200cf1+0x1)[_0x242cff(0x234)](0x2)+'.\x20'+_0x3adb28+'\x20'+_0x37f6dd+_0x242cff(0x179)+_0x1ce788['uid']));}),console[_0x232747(0x18f)](magenta(_0x232747(0x299)));}catch(_0x38f82c){if(_0x38f82c[_0x232747(0x1f9)]==='BACK'||_0x38f82c[_0x232747(0x1f9)]===_0x232747(0x1ce)){console[_0x232747(0x1a6)]();return;}console['log'](red(_0x232747(0x1e0)+_0x38f82c[_0x232747(0x1f9)]));}}async function showCooldownAccounts(){const _0xfb9daf=_0x80114c;console[_0xfb9daf(0x1a6)](),displayASCIIBanner();const _0x357468=AccountManager[_0xfb9daf(0x2a0)](),_0x343893=new Date();let _0x3b5704=0x0;const _0x23eea2=_0x357468[_0xfb9daf(0x15e)](_0x3878f9=>{const _0x272fac=_0xfb9daf;if(!_0x3878f9['cooldown']||!_0x3878f9[_0x272fac(0x17f)])return![];const _0x586799=new Date(_0x3878f9[_0x272fac(0x17f)]);if(_0x343893>=_0x586799)return _0x3878f9[_0x272fac(0x160)]=![],_0x3878f9['cooldownUntil']=null,_0x3b5704++,![];return!![];});_0x3b5704>0x0&&(AccountManager[_0xfb9daf(0x235)](_0x357468),console[_0xfb9daf(0x18f)](green(_0xfb9daf(0x282)+_0x3b5704+_0xfb9daf(0x262))),await new Promise(_0x537719=>setTimeout(_0x537719,0x5dc)),console[_0xfb9daf(0x1a6)](),displayASCIIBanner());if(_0x23eea2[_0xfb9daf(0x21d)]===0x0){console[_0xfb9daf(0x18f)](red(_0xfb9daf(0x245))),console['log'](red(_0xfb9daf(0x24d))),console['log'](red(_0xfb9daf(0x194))),console[_0xfb9daf(0x18f)](green(_0xfb9daf(0x278))),console[_0xfb9daf(0x18f)](red(_0xfb9daf(0x173)));return;}console[_0xfb9daf(0x18f)](magenta(_0xfb9daf(0x1fb))),console['log'](magenta(_0xfb9daf(0x1b9))),console[_0xfb9daf(0x18f)](magenta(_0xfb9daf(0x2b4))),console['log'](cyan((_0xfb9daf(0x1b2)+_0x23eea2[_0xfb9daf(0x21d)])[_0xfb9daf(0x198)](0x3c))),console[_0xfb9daf(0x18f)](magenta(_0xfb9daf(0x299))),console['log'](magenta(_0xfb9daf(0x275))),console[_0xfb9daf(0x18f)](magenta('\x20\x20─────────────────────────────────────────────────────────────')),_0x23eea2[_0xfb9daf(0x166)]((_0x35f1f2,_0x537a4d)=>{const _0x6915af=_0xfb9daf,_0x5c5fd3=new Date(_0x35f1f2['cooldownUntil']),_0x519fa2=_0x5c5fd3-_0x343893;let _0x14103e='';if(_0x519fa2<=0x0)_0x14103e=red(_0x6915af(0x2b5));else{const _0x58bc8b=Math[_0x6915af(0x20a)](_0x519fa2/0xea60),_0x5ad197=Math[_0x6915af(0x20a)](_0x519fa2%0xea60/0x3e8);_0x14103e=yellow(_0x58bc8b+'m\x20'+_0x5ad197+_0x6915af(0x1f5));}const _0x20f541=String(_0x35f1f2['id'])['substring'](0x0,0xc),_0x1066a5=String(_0x35f1f2[_0x6915af(0x207)])[_0x6915af(0x198)](0x4);console[_0x6915af(0x18f)](cyan('\x20\x20'+String(_0x537a4d+0x1)[_0x6915af(0x198)](0x2)+'\x20│\x20ID:\x20'+_0x20f541+'...\x20│\x20Shares:\x20'+_0x1066a5+_0x6915af(0x254)+_0x14103e));}),console['log'](magenta(_0xfb9daf(0x299)));}async function showStats(){const _0x5bcafe=_0x80114c;console[_0x5bcafe(0x1a6)](),displayASCIIBanner();const _0xde01b5=AccountManager[_0x5bcafe(0x2a0)]();if(_0xde01b5[_0x5bcafe(0x21d)]===0x0){console['log'](red(_0x5bcafe(0x245))),console['log'](red(_0x5bcafe(0x1a9))),console[_0x5bcafe(0x18f)](red(_0x5bcafe(0x194))),console[_0x5bcafe(0x18f)](yellow('║\x20\x20💡\x20Add\x20accounts\x20first\x20to\x20see\x20statistics\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20║')),console[_0x5bcafe(0x18f)](red('╚══════════════════════════════════════════════════════════════╝'));return;}const _0x28720b=_0xde01b5[_0x5bcafe(0x1bd)]((_0x3f817b,_0x27068a)=>_0x3f817b+_0x27068a[_0x5bcafe(0x207)],0x0),_0x2c7af0=_0xde01b5[_0x5bcafe(0x15e)](_0x1448f5=>_0x1448f5[_0x5bcafe(0x176)]===_0x5bcafe(0x1ef))[_0x5bcafe(0x21d)],_0x52abf4=_0xde01b5[_0x5bcafe(0x21d)],_0x517153=_0x28720b>0x0?(_0xde01b5[_0x5bcafe(0x15e)](_0x330326=>_0x330326[_0x5bcafe(0x207)]>0x0)[_0x5bcafe(0x21d)]/_0x52abf4*0x64)[_0x5bcafe(0x223)](0x1):'0';console[_0x5bcafe(0x18f)](magenta('\x0a═════════════════════════════════════════════════════════════════════════')),console[_0x5bcafe(0x18f)](magenta('\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20COMPREHENSIVE\x20STATISTICS\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')),console[_0x5bcafe(0x18f)](magenta(_0x5bcafe(0x2b4))),console[_0x5bcafe(0x18f)](cyan(_0x5bcafe(0x28f))),console[_0x5bcafe(0x18f)](cyan(_0x5bcafe(0x182))),console[_0x5bcafe(0x18f)](blue((_0x5bcafe(0x204)+_0x52abf4)[_0x5bcafe(0x198)](0x3c))),console[_0x5bcafe(0x18f)](green(('\x20\x20Active\x20Accounts:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x2c7af0)[_0x5bcafe(0x198)](0x3c))),console['log'](red((_0x5bcafe(0x29b)+(_0x52abf4-_0x2c7af0))[_0x5bcafe(0x198)](0x3c))),console[_0x5bcafe(0x18f)](yellow((_0x5bcafe(0x1c9)+_0x28720b)[_0x5bcafe(0x198)](0x3c))),console[_0x5bcafe(0x18f)](magenta(_0x5bcafe(0x299))),_0x28720b>0x0&&(console[_0x5bcafe(0x18f)](cyan(('\x20\x20AVERAGE\x20SHARES\x20PER\x20ACCOUNT:\x20'+(_0x28720b/_0x52abf4)['toFixed'](0x1))['padEnd'](0x3c))),console[_0x5bcafe(0x18f)](magenta((_0x5bcafe(0x224)+_0x517153+'%')[_0x5bcafe(0x198)](0x3c)))),console['log'](''),console[_0x5bcafe(0x18f)](cyan(_0x5bcafe(0x2b4))),console[_0x5bcafe(0x18f)](cyan(_0x5bcafe(0x1c7))),console['log'](cyan('═════════════════════════════════════════════════════════════════════════')),_0xde01b5['forEach']((_0x31f1ff,_0x13a6c5)=>{const _0x5ec0a0=_0x5bcafe,_0xdbcb7a=_0x31f1ff['status']===_0x5ec0a0(0x1ef)?green(_0x5ec0a0(0x21e)):red(_0x5ec0a0(0x1fd)),_0x5a9cec=_0x31f1ff['status']===_0x5ec0a0(0x1ef)?_0x5ec0a0(0x1cc):_0x5ec0a0(0x178),_0x10fcce=_0x31f1ff[_0x5ec0a0(0x255)]?new Date(_0x31f1ff[_0x5ec0a0(0x255)])['toLocaleDateString']():_0x5ec0a0(0x251),_0x4592a7=_0x31f1ff[_0x5ec0a0(0x164)][_0x5ec0a0(0x1fe)]('T')[0x0];console[_0x5ec0a0(0x18f)](cyan('\x20\x20'+String(_0x13a6c5+0x1)[_0x5ec0a0(0x198)](0x2)+_0x5ec0a0(0x24c)+String(_0x31f1ff['id'])[_0x5ec0a0(0x267)](0x0,0xa)+'...\x20│\x20'+_0xdbcb7a+_0x5ec0a0(0x202)+String(_0x31f1ff['shareCount'])[_0x5ec0a0(0x198)](0x4)+'\x20│\x20Added:\x20'+_0x4592a7)),console[_0x5ec0a0(0x18f)](cyan(_0x5ec0a0(0x1be)+_0x10fcce['padEnd'](0xc)+_0x5ec0a0(0x279)+_0x5a9cec)),console[_0x5ec0a0(0x18f)]('');}),console[_0x5bcafe(0x18f)](cyan('═════════════════════════════════════════════════════════════════════════')),console[_0x5bcafe(0x18f)](yellow('\x20\x20Tip:\x20Keep\x20accounts\x20ACTIVE\x20for\x20maximum\x20sharing\x20power\x20&\x20speed!')),console[_0x5bcafe(0x18f)](cyan('═════════════════════════════════════════════════════════════════════════\x0a'));}async function main(){const _0x22c15d=_0x80114c;console[_0x22c15d(0x1a6)](),console[_0x22c15d(0x18f)]('\x0a'),displayASCIIBanner();while(!![]){try{await showMenu();const _0x2bc9d6=await ask(cyan('\x0a[+]\x20Select\x20option\x20(0-9,\x20b=back):\x20'));switch(_0x2bc9d6[_0x22c15d(0x226)]()){case'1':await AccountManager[_0x22c15d(0x199)]();break;case'2':AccountManager[_0x22c15d(0x288)]();break;case'3':await AccountManager[_0x22c15d(0x291)]();break;case'4':await singleShare();break;case'5':await massShare();break;case'6':await showStats();break;case'7':await checkAllAccountsLive();break;case'8':await showCooldownAccounts();break;case'9':await testAllAccounts();break;case'0':case _0x22c15d(0x188):console['log'](C('38;5;51',_0x22c15d(0x1db))),rl[_0x22c15d(0x2a8)]();return;default:console['log'](red(_0x22c15d(0x1cb)));}try{await ask(cyan(_0x22c15d(0x292)));}catch(_0x47e5d5){if(_0x47e5d5[_0x22c15d(0x1f9)]===_0x22c15d(0x2b7)||_0x47e5d5[_0x22c15d(0x1f9)]===_0x22c15d(0x1ce)){console[_0x22c15d(0x1a6)](),console[_0x22c15d(0x18f)]('\x0a'),displayASCIIBanner();continue;}}}catch(_0x4aaa72){if(_0x4aaa72[_0x22c15d(0x1f9)]===_0x22c15d(0x2b7)||_0x4aaa72['message']===_0x22c15d(0x1ce)){console['clear'](),console[_0x22c15d(0x18f)]('\x0a'),displayASCIIBanner();continue;}throw _0x4aaa72;}console[_0x22c15d(0x1a6)](),console[_0x22c15d(0x18f)]('\x0a'),displayASCIIBanner();}}function startMain(){const _0x1a0131=_0x80114c;main()[_0x1a0131(0x209)](_0x314d92=>{const _0x469661=_0x1a0131;console['log'](red(_0x469661(0x208)+_0x314d92['message'])),console[_0x469661(0x18f)](yellow(_0x469661(0x2a9))),process[_0x469661(0x188)](0x1);});}function _0x3476(_0x30388f,_0x5458b9){const _0x4e8754=_0x4e87();return _0x3476=function(_0x347697,_0x170706){_0x347697=_0x347697-0x15c;let _0x32b9d8=_0x4e8754[_0x347697];return _0x32b9d8;},_0x3476(_0x30388f,_0x5458b9);}(process[_0x80114c(0x167)][_0x80114c(0x19a)]('--version')||process[_0x80114c(0x167)][_0x80114c(0x19a)]('-v'))&&process[_0x80114c(0x188)](0x0);printAnimatedBanner();
+
+
+const https = require('https');
+const readline = require('readline');
+const fs = require('fs');
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+let globalStopFlag = false;
+
+const C = (c, t) => `\x1b[${c}m${t}\x1b[0m`;
+const green = (t) => C('92', t);
+const red = (t) => C('91', t);
+const yellow = (t) => C('93', t);
+const cyan = (t) => C('96', t);
+const magenta = (t) => C('95', t);
+const blue = (t) => C('94', t);
+const white = (t) => C('97', t);
+const reset = (t) => C('0', t);
+
+
+function displayASCIIBanner() {
+  console.log(C('38;5;201', '    ██████╗  ██████╗  ██████╗ ███████╗████████╗    ███████╗██╗  ██╗'));
+  console.log(C('38;5;165', '    ██╔══██╗██╔═══██╗██╔═══██╗██╔════╝╚══██╔══╝    ██╔════╝██║  ██║'));
+  console.log(C('38;5;129', '    ██████╔╝██║   ██║██║   ██║███████╗   ██║       ███████╗███████║'));
+  console.log(C('38;5;93', '    ██╔══██╗██║   ██║██║   ██║╚════██║   ██║       ╚════██║██╔══██║'));
+  console.log(C('38;5;57', '    ██████╔╝╚██████╔╝╚██████╔╝███████║   ██║       ███████║██║  ██║'));
+  console.log(C('38;5;21', '    ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝       ╚══════╝╚═╝  ╚═╝'));
+  console.log('');
+}
+
+function printAnimatedBanner() {
+  console.clear();
+  process.stdout.write('\x1b[3J');
+  process.stdout.write('\x1b[H\x1b[2J');
+
+  console.log('\n');
+
+  setTimeout(() => {
+    displayASCIIBanner();
+
+    const accounts = (() => {
+      try {
+        if (fs.existsSync(ACCOUNTS_FILE)) {
+          return JSON.parse(fs.readFileSync(ACCOUNTS_FILE, 'utf8'));
+        }
+      } catch {}
+      return [];
+    })();
+    const accountCount = accounts.length;
+
+    console.log(C('38;5;46', '   ✨ ') + C('38;5;82', '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ') + C('38;5;46', '✨'));
+    console.log(C('38;5;51', '                          STORED ACCOUNTS: ') + C('38;5;45', String(accountCount)));
+    console.log(C('38;5;46', '     ✨ ') + C('38;5;82', '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ') + C('38;5;46', '✨'));
+    console.log('');
+
+    setTimeout(() => {
+      startMain();
+    }, 1200);
+  }, 300);
+}
+
+const ACCOUNTS_FILE = 'accounts.json';
+
+class AccountManager {
+  static loadAccounts() {
+    if (fs.existsSync(ACCOUNTS_FILE)) {
+      try {
+        const data = fs.readFileSync(ACCOUNTS_FILE, 'utf8');
+        const accounts = JSON.parse(data);
+        return accounts.filter(acc => acc.cookie && acc.cookie.includes('c_user='));
+      } catch (e) {
+        console.error('Error loading accounts:', e.message);
+        return [];
+      }
+    }
+    return [];
+  }
+
+  static saveAccounts(accounts) {
+    try {
+      const validAccounts = accounts.filter(acc => acc && acc.cookie && acc.cookie.includes('c_user='));
+      fs.writeFileSync(ACCOUNTS_FILE, JSON.stringify(validAccounts, null, 2));
+    } catch (e) {
+      console.error('Error saving accounts:', e.message);
+    }
+  }
+
+  static async addAccount() {
+    try {
+      const accounts = this.loadAccounts();
+      console.log(yellow('\n[+] ➕ Add Facebook Accounts'));
+      console.log(cyan('📝 Choose mode:'));
+      console.log(green('  [1] Single Account'));
+      console.log(cyan('      └─ Add 1 account with manual cookie input'));
+      console.log('');
+      console.log(blue('  [2] Bulk Import'));
+      console.log(cyan('      └─ Add multiple accounts at once (paste cookies one per line)'));
+
+      console.clear();
+      displayASCIIBanner();
+      const mode = await ask(cyan('\n[+] Select mode (1/2) - Press (b) to go back: '));
+      console.clear();
+
+      if (mode === '2') {
+        return await this.bulkAddAccounts(accounts);
+      } else {
+        return await this.singleAddAccount(accounts);
+      }
+    } catch (e) {
+      if (e.message === 'BACK') {
+        console.clear();
+        return false;
+      }
+      if (e.message === 'STOP') {
+        console.log(red('\n⏹️ Stopping...'));
+        return false;
+      }
+      throw e;
+    }
+  }
+
+  static async singleAddAccount(accounts) {
+    try {
+      console.log(yellow('[+] ➕ Add New Facebook Account'));
+      console.log(cyan('📝 Input Facebook Cookie (c_user, xs, datr):'));
+      console.log(magenta('💡 Tip: Copy complete cookie from Facebook'));
+
+      const cookie = await ask(cyan('\nCookie (Press b to go back): '));
+      console.clear();
+      if (!cookie.includes('c_user=') || !cookie.includes('xs=')) {
+        console.log(red('❌ Invalid cookie! Please ensure it contains c_user= and xs='));
+        return false;
+      }
+
+      const accountId = Date.now();
+      const cUserMatch = cookie.match(/c_user=(\d+)/);
+      const uid = cUserMatch ? cUserMatch[1] : String(accountId);
+      const account = {
+        id: accountId,
+        uid: uid,
+        cookie: cookie,
+        added: new Date().toISOString(),
+        status: 'active',
+        shareCount: 0,
+        successRate: '100%',
+        lastShare: null,
+        cooldown: false,
+        cooldownUntil: null
+      };
+
+      accounts.push(account);
+      this.saveAccounts(accounts);
+      console.log(green(`✅ Account added successfully! UID: ${uid}`));
+      console.log(blue(`🎉 Ready for mass sharing!`));
+      return true;
+    } catch (e) {
+      if (e.message === 'BACK' || e.message === 'STOP') {
+        console.clear();
+        return false;
+      }
+      throw e;
+    }
+  }
+
+  static async bulkAddAccounts(accounts) {
+    try {
+      console.log(yellow('[+] 📦 Bulk Import Accounts'));
+      console.log(cyan('📝 Paste cookies (one per line):'));
+      console.log(magenta('💡 Tips:'));
+      console.log(magenta('  - Each line = 1 cookie'));
+      console.log(magenta('  - Press ENTER on empty line when done'));
+      console.log(magenta('  - Cookies must have c_user= and xs='));
+
+      let input = '';
+      let consecutiveEmpty = 0;
+
+      while (true) {
+        const line = await ask(cyan('\nCookie (Press b to go back, or empty line to finish): '));
+        if (line.trim() === '') {
+          consecutiveEmpty++;
+          if (consecutiveEmpty >= 1) break;
+          continue;
+        }
+        consecutiveEmpty = 0;
+        input += line + '\n';
+      }
+
+      console.clear();
+      displayASCIIBanner();
+      const cookies = input.trim().split('\n').filter(c => c.trim().length > 0);
+
+      if (cookies.length === 0) {
+        console.log(red('❌ No valid cookies provided!'));
+        return false;
+      }
+
+      console.log(yellow(`\n[+] 🔄 Processing ${cookies.length} cookies...\n`));
+
+      const results = [];
+      for (let i = 0; i < cookies.length; i++) {
+        const cookie = cookies[i].trim();
+        process.stdout.write(cyan(`  Processing [${i + 1}/${cookies.length}]... `));
+
+        if (!cookie.includes('c_user=') || !cookie.includes('xs=')) {
+          console.log(red('❌ SKIPPED - Invalid format'));
+          results.push({ status: 'skipped', error: 'Invalid format' });
+          continue;
+        }
+
+        const accountId = Date.now() + i;
+        const cUserMatch = cookie.match(/c_user=(\d+)/);
+        const uid = cUserMatch ? cUserMatch[1] : String(accountId);
+
+        const account = {
+          id: accountId,
+          uid: uid,
+          cookie: cookie,
+          added: new Date().toISOString(),
+          status: 'active',
+          shareCount: 0,
+          successRate: '100%',
+          lastShare: null,
+          cooldown: false,
+          cooldownUntil: null
+        };
+
+        accounts.push(account);
+        console.log(green(`✅ SUCCESS (UID: ${uid})`));
+        results.push({ status: 'success', uid });
+
+        await new Promise(r => setTimeout(r, 300));
+      }
+
+      this.saveAccounts(accounts);
+
+      const success = results.filter(r => r.status === 'success').length;
+      const failed = results.filter(r => r.status === 'failed').length;
+      const skipped = results.filter(r => r.status === 'skipped').length;
+
+      console.log(magenta('\n════════════════════════════════════════════════════════════════'));
+      console.log(magenta('                      BULK IMPORT REPORT                       '));
+      console.log(magenta('════════════════════════════════════════════════════════════════'));
+      console.log(green(`  ✅ SUCCESSFUL:  ${success}`.padEnd(60)));
+      console.log(red(`  ❌ FAILED:      ${failed}`.padEnd(60)));
+      console.log(yellow(`  ⊘ SKIPPED:     ${skipped}`.padEnd(60)));
+      console.log(blue(`  📊 TOTAL:      ${cookies.length}`.padEnd(60)));
+      console.log(magenta('════════════════════════════════════════════════════════════════\n'));
+
+      return success > 0;
+    } catch (e) {
+      if (e.message === 'BACK' || e.message === 'STOP') {
+        console.clear();
+        return false;
+      }
+      throw e;
+    }
+  }
+
+static listAccounts() {
+  console.clear();
+  displayASCIIBanner();
+  const accounts = this.loadAccounts();
+
+  if (accounts.length === 0) {
+    console.log(red('\n════════════════════════════════════════════════════════════════════════'));
+    console.log(red('                     NO ACCOUNTS FOUND                     '));
+    console.log(red('════════════════════════════════════════════════════════════════════════'));
+    console.log(yellow('  Use option [1] to add your first account'));
+    console.log(yellow('  Ready to add UNLIMITED Facebook accounts!'));
+    console.log(red('════════════════════════════════════════════════════════════════════════\n'));
+    return [];
+  }
+
+  console.log(magenta('\n════════════════════════════════════════════════════════════════════════'));
+  console.log(magenta('                       REGISTERED ACCOUNTS                       '));
+  console.log(magenta('════════════════════════════════════════════════════════════════════════'));
+  console.log(cyan('  #   ACCOUNT ID       STATUS     SHARES   SUCCESS   ADDED DATE'));
+  console.log(cyan('  ──────────────────────────────────────────────────────────────────────'));
+
+  accounts.forEach((acc, i) => {
+    const status = acc.status === 'active' ? green('ACTIVE   ') : red('INACTIVE ');
+    const successRate = acc.shareCount > 0 ? `${acc.successRate}%`.padEnd(6) : 'N/A   ';
+    const idShort = acc.id.toString().substring(0, 12).padEnd(12) + '...';
+    const shares = String(acc.shareCount).padEnd(6);
+    const added = acc.added.split('T')[0];
+
+    console.log(cyan(`  ${String(i + 1).padStart(2)} ${idShort}  ${status} ${shares}   ${successRate} ${added}`));
+  });
+
+  console.log(cyan('  ──────────────────────────────────────────────────────────────────────'));
+
+  const activeCount = accounts.filter(a => a.status === 'active').length;
+  const totalShares = accounts.reduce((sum, a) => sum + a.shareCount, 0);
+  const avgSuccess = accounts.length > 0 
+    ? (accounts.reduce((sum, a) => sum + (a.successRate || 0), 0) / accounts.length).toFixed(1)
+    : 0;
+
+  console.log(cyan('\n  SUMMARY:'));
+  console.log(blue  (`   Total Accounts     : ${accounts.length}`.padEnd(50)));
+  console.log(green (`   Active Accounts    : ${activeCount}`.padEnd(50)));
+  console.log(red   (`   Inactive Accounts  : ${accounts.length - activeCount}`.padEnd(50)));
+  console.log(yellow(`   Total Shares Done  : ${totalShares}`.padEnd(50)));
+  console.log(magenta(`   Avg Success Rate   : ${avgSuccess}%`.padEnd(50)));
+
+  console.log(magenta('════════════════════════════════════════════════════════════════════════\n'));
+
+  return accounts;
+}
+  static async removeAccount() {
+    try {
+      console.clear();
+      displayASCIIBanner();
+      const accounts = this.listAccounts();
+      if (accounts.length === 0) return;
+
+      const inputPrompt = cyan('\n[+] Select account to remove (number): ');
+      const indexInput = await ask(inputPrompt);
+      console.clear();
+      const index = parseInt(indexInput) - 1;
+
+      if (index < 0 || index >= accounts.length) {
+        console.log(red('❌ Invalid selection!'));
+        return;
+      }
+
+      const removed = accounts.splice(index, 1)[0];
+      this.saveAccounts(accounts);
+      console.log(green(`✅ Account ${removed.id} removed successfully!`));
+    } catch (e) {
+      if (e.message === 'BACK' || e.message === 'STOP') {
+        console.clear();
+        return;
+      }
+      throw e;
+    }
+  }
+
+  static async toggleAccountStatus() {
+    try {
+      const accounts = this.listAccounts();
+      if (accounts.length === 0) return;
+
+      const inputPrompt = cyan('\n[+] Select account to toggle (number, b=back): ');
+      const indexInput = await ask(inputPrompt);
+      console.clear();
+      const index = parseInt(indexInput) - 1;
+
+      if (index < 0 || index >= accounts.length) {
+        console.log(red('❌ Invalid selection!'));
+        return;
+      }
+
+      accounts[index].status = accounts[index].status === 'active' ? 'inactive' : 'active';
+      this.saveAccounts(accounts);
+      const status = accounts[index].status === 'active' ? green('ACTIVE') : red('INACTIVE');
+      console.log(green(`✅ Account ${accounts[index].id} is now ${status}`));
+    } catch (e) {
+      if (e.message === 'BACK' || e.message === 'STOP') {
+        console.clear();
+        return;
+      }
+      throw e;
+    }
+  }
+}
+
+function ask(q) {
+  return new Promise((r, reject) => {
+    rl.line = '';
+    rl._refreshLine();
+    rl.question(q, ans => {
+      rl.line = '';
+      rl._refreshLine();
+      if (ans.toLowerCase() === 'b') {
+        reject(new Error('BACK'));
+      } else if (ans.toLowerCase() === 's') {
+        globalStopFlag = true;
+        reject(new Error('STOP'));
+      } else {
+        r(ans);
+      }
+    });
+  });
+}
+
+async function getToken(cookie) {
+  return new Promise((resolve, reject) => {
+    const options = {
+      hostname: 'business.facebook.com',
+      path: '/business_locations',
+      method: 'GET',
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36',
+        'Referer': 'https://www.facebook.com/',
+        'Cookie': cookie,
+        'Accept': 'text/html',
+        'Accept-Language': 'en-US,en;q=0.9'
+      }
+    };
+
+    const req = https.request(options, res => {
+      let data = '';
+      res.on('data', d => data += d);
+      res.on('end', () => {
+        const match = data.match(/EAAG\w+/);
+        match ? resolve(match[0]) : reject(new Error('Invalid cookie'));
+      });
+    });
+    req.on('error', () => reject(new Error('Network error')));
+    req.end();
+  });
+}
+
+async function shareOnce(cookie, url, accountId = null, retryCount = 0) {
+  return new Promise(async (resolve) => {
+    try {
+      let token;
+      try {
+        token = await getToken(cookie);
+      } catch (e) {
+        return resolve({ success: false, error: 'Cannot extract token from cookie', accountId });
+      }
+
+      const data = JSON.stringify({ 
+        link: url,
+        published: 0,
+        privacy: { value: 'SELF' }
+      });
+      const options = {
+        hostname: 'graph.facebook.com',
+        path: `/v20.0/me/feed?access_token=${token}`,
+        method: 'POST',
+        headers: { 
+          'Content-Type': 'application/json', 
+          'User-Agent': 'Mozilla/5.0', 
+          'Cookie': cookie 
+        }
+      };
+
+      const req = https.request(options, res => {
+        let body = '';
+        res.on('data', d => body += d);
+        res.on('end', () => {
+          try {
+            const json = JSON.parse(body);
+            if (json.id) {
+              resolve({ success: true, id: json.id.split('_')[1] || json.id, accountId });
+            } else if (json.error) {
+              const errorMsg = json.error?.message || JSON.stringify(json.error);
+              const errorEn = errorMsg
+                .replace(/Nililimitahan namin/g, 'we limit how often')
+                .replace(/gaano kadalas/g, 'frequency')
+                .replace(/nang gamitin ang/g, '')
+                .replace(/\[.*?\]/g, '')
+                .trim();
+
+              const lowerMsg = errorEn.toLowerCase();
+              const isRateLimit = lowerMsg.includes('we limit') || lowerMsg.includes('rate limit') || lowerMsg.includes('too frequent') || lowerMsg.includes('frequency') || json.error?.code === 17;
+              const isDisabled = lowerMsg.includes('unless you login') || lowerMsg.includes('until you login to');
+
+              if (isRateLimit && retryCount < 2) {
+                const backoffDelay = (retryCount + 1) * 1000 + Math.random() * 500;
+                setTimeout(() => {
+                  shareOnce(cookie, url, accountId, retryCount + 1).then(resolve);
+                }, backoffDelay);
+              } else {
+                resolve({ success: false, error: errorEn || errorMsg, accountId, isRateLimit, isDisabled });
+              }
+            } else {
+              resolve({ success: false, error: 'Unknown error', accountId });
+            }
+          } catch (e) {
+            resolve({ success: false, error: 'Parse error', accountId });
+          }
+        });
+      });
+      req.on('error', () => {
+        resolve({ success: false, error: 'Network error', accountId });
+      });
+      req.write(data); 
+      req.end();
+    } catch (e) {
+      resolve({ success: false, error: 'Request error', accountId });
+    }
+  });
+}
+
+class ProgressTracker {
+  constructor(totalShares, activeAccounts) {
+    this.totalShares = totalShares;
+    this.completed = 0;
+    this.success = 0;
+    this.failed = 0;
+    this.globalCounter = 0;
+    this.accountStats = new Map();
+    this.activeAccounts = activeAccounts;
+    this.startTime = Date.now();
+    this.updateInterval = null;
+    this.lastShareInfo = null;
+
+    activeAccounts.forEach(acc => {
+      this.accountStats.set(acc.id, { completed: 0, success: 0, failed: 0 });
+    });
+  }
+
+  recordResult(uid, isSuccess, postId, shareCounter, totalAccountShares, errorMsg = '') {
+    this.completed++;
+    this.globalCounter++;
+    if (isSuccess) {
+      this.success++;
+    } else {
+      this.failed++;
+    }
+
+    this.render(uid, isSuccess, postId, shareCounter, totalAccountShares, errorMsg);
+  }
+
+  startRendering() {
+  }
+
+  stopRendering() {
+  }
+
+  render(uid, isSuccess, postId, shareCounter, totalAccountShares, errorMsg = '') {
+    const statusText = isSuccess ? green('✅ SUCCESS') : red('❌ FAILED');
+    const errorDisplay = errorMsg ? red(` [${errorMsg.substring(0, 35)}]`) : '';
+
+    console.log(
+      cyan(`[${String(this.globalCounter).padStart(4)}] `) +
+      red(`[SHARER] `) +
+      blue(`${uid}_${postId} `) +
+      magenta(`${shareCounter}/${totalAccountShares} `) +
+      `---> ${statusText}${errorDisplay}`
+    );
+  }
+
+  getFinalStats() {
+    const durationSeconds = (Date.now() - this.startTime) / 1000;
+    return {
+      totalShares: this.totalShares,
+      completed: this.completed,
+      success: this.success,
+      failed: this.failed,
+      duration: durationSeconds,
+      durationFormatted: durationSeconds.toFixed(1)
+    };
+  }
+}
+
+async function runAccountShares(account, postUrl, sharesPerAccount, tracker, statsLock) {
+  const concurrency = 50;
+  const sharePromises = [];
+  let stopAccount = false;
+
+  for (let i = 1; i <= sharesPerAccount; i++) {
+    if (globalStopFlag || stopAccount) break;
+
+    const sharePromise = (async (shareNumber) => {
+      const result = await shareOnce(account.cookie, postUrl, account.id, 0);
+
+      await statsLock(async () => {
+        if (result.success) {
+          account.shareCount++;
+          account.lastShare = new Date().toISOString();
+          tracker.recordResult(account.uid, true, result.id, shareNumber, sharesPerAccount);
+        } else {
+          tracker.recordResult(account.uid, false, 'ERROR', shareNumber, sharesPerAccount, result.error || 'Unknown');
+          if (result.isRateLimit) {
+            account.cooldown = true;
+            account.cooldownUntil = new Date(Date.now() + 1800000).toISOString();
+            stopAccount = true;
+          }
+          if (result.isDisabled) {
+            account.status = 'disabled';
+            account.cooldown = false;
+            stopAccount = true;
+          }
+        }
+      });
+    })(i);
+
+    sharePromises.push(sharePromise);
+
+    if (sharePromises.length >= concurrency) {
+      await Promise.race(sharePromises);
+      sharePromises.splice(0, 1);
+    }
+  }
+
+  await Promise.all(sharePromises);
+}
+
+async function massShare() {
+  try {
+    console.clear();
+    displayASCIIBanner();
+    const accounts = AccountManager.loadAccounts();
+    const now = new Date();
+    const activeAccounts = accounts.filter(acc => {
+      if (acc.status !== 'active') return false;
+      if (!acc.uid && acc.cookie) {
+        const cUserMatch = acc.cookie.match(/c_user=(\d+)/);
+        acc.uid = cUserMatch ? cUserMatch[1] : String(acc.id);
+      }
+      if (acc.cooldown && acc.cooldownUntil) {
+        const cooldownUntil = new Date(acc.cooldownUntil);
+        if (now < cooldownUntil) return false;
+        acc.cooldown = false;
+        acc.cooldownUntil = null;
+      }
+      return true;
+    });
+
+    if (activeAccounts.length === 0) {
+      console.log(red('\n❌ No active accounts found!'));
+      console.log(yellow('💡 Add accounts first or activate existing ones'));
+      return;
+    }
+
+    const postUrl = (await ask(cyan('\n[+] 🌐 Enter Post URL to share (b=back): '))).trim();
+    console.clear();
+    displayASCIIBanner();
+    const sharesPerAccountInput = (await ask(cyan('[+] 🔢 Amount of shares per account (1-4000, b=back): '))).trim();
+    console.clear();
+    const sharesPerAccount = parseInt(sharesPerAccountInput);
+
+    if (isNaN(sharesPerAccount) || sharesPerAccount < 1 || sharesPerAccount > 4000) {
+      console.log(red('❌ Invalid shares! Must be between 1-4000'));
+      return;
+    }
+
+    const totalShares = activeAccounts.length * sharesPerAccount;
+
+    console.log(yellow(`\n[+] 🚀 FAST Mass Share Configuration:`));
+    console.log(cyan(`   📱 Active Accounts: ${activeAccounts.length}`));
+    console.log(cyan(`   🔢 Shares per account: ${sharesPerAccount}`));
+    console.log(cyan(`   📊 Total shares: ${totalShares}`));
+    console.log(green(`   ⚡ Speed: OPTIMIZED (600-800 shares/minute per account)`));
+    console.log(magenta(`   💥 ESTIMATED TIME: ~${((totalShares * 50) / 1000).toFixed(0)} seconds`));
+
+    const confirm = (await ask(cyan('\n[+] ❓ Start sharing? (y/N, b=back): '))).trim();
+    if (confirm.toLowerCase() !== 'y') {
+      console.log(yellow('❌ Operation cancelled.'));
+      return;
+    }
+
+    const tracker = new ProgressTracker(totalShares, activeAccounts);
+    let statsQueue = Promise.resolve();
+    const statsLock = (fn) => {
+      statsQueue = statsQueue.then(fn);
+      return statsQueue;
+    };
+
+    console.log(yellow('\n🚀 Starting FAST SHARING...\n'));
+    console.log(magenta('⚡ Processing ${totalShares} shares at maximum speed!\n'));
+
+    tracker.startRendering();
+
+    try {
+      await Promise.all(
+        activeAccounts.map(account => 
+          runAccountShares(account, postUrl, sharesPerAccount, tracker, statsLock)
+        )
+      );
+    } finally {
+      tracker.stopRendering();
+    }
+
+    const finalStats = tracker.getFinalStats();
+    AccountManager.saveAccounts(accounts);
+
+    console.log('\n');
+    console.log(magenta('\n═════════════════════════════════════════════════════════════════════════'));
+    console.log(magenta('            🚀 FAST SHARING COMPLETED! 🚀            '));
+    console.log(magenta('═════════════════════════════════════════════════════════════════════════'));
+    console.log(green(`  TOTAL SUCCESS:     ${finalStats.success}`.padEnd(60)));
+    console.log(red(`  TOTAL FAILED:      ${finalStats.failed}`.padEnd(60)));
+    const successRate = finalStats.success + finalStats.failed > 0 
+      ? ((finalStats.success / (finalStats.success + finalStats.failed)) * 100).toFixed(1) 
+      : 0;
+    console.log(yellow(`  SUCCESS RATE:      ${successRate}%`.padEnd(60)));
+    console.log(blue(`  DURATION:          ${finalStats.durationFormatted}s (${(finalStats.duration/60).toFixed(1)} min)`.padEnd(60)));
+    const sharesPerSec = finalStats.duration > 0 ? (finalStats.success / finalStats.duration).toFixed(1) : 'N/A';
+    console.log(magenta(`  SPEED:             ${sharesPerSec} shares/second`.padEnd(60)));
+    console.log(cyan(`  ACCOUNTS USED:     ${activeAccounts.length}`.padEnd(60)));
+    console.log(magenta('═════════════════════════════════════════════════════════════════════════'));
+    console.log(C('38;5;51', '  ⚡ FAST MODE COMPLETE! ⚡'));
+    console.log(C('38;5;45', '  Thank you for using BOOST-SH v1.1!'));
+    console.log(magenta('═════════════════════════════════════════════════════════════════════════\n'));
+  } catch (e) {
+    if (e.message === 'BACK') {
+      console.clear();
+      return;
+    }
+    if (e.message === 'STOP') {
+      console.clear();
+      return;
+    }
+    throw e;
+  }
+}
+
+async function checkAccountLive(token, cookie) {
+  // Test if cookie can perform a share - most accurate validation
+  const result = await shareOnce(cookie, 'https://www.facebook.com', null, 0);
+
+  if (result.success) {
+    return { alive: true, name: 'Active & Working' };
+  } else {
+    return { alive: false, error: result.error };
+  }
+}
+
+async function checkAllAccountsLive() {
+  try {
+    console.clear();
+    displayASCIIBanner();
+    const accounts = AccountManager.loadAccounts();
+    if (accounts.length === 0) {
+      console.log(red('\n❌ No accounts to check!'));
+      return;
+    }
+
+    const now = new Date();
+    let expiredCount = 0;
+
+    const results = accounts.map((account) => {
+      let result = { ...account };
+      let isCooldown = false;
+      let statusName = 'ACTIVE';
+
+      if (account.cooldown && account.cooldownUntil) {
+        const cooldownUntil = new Date(account.cooldownUntil);
+        if (now < cooldownUntil) {
+          isCooldown = true;
+          statusName = 'Rate Limited (Cooldown)';
+        } else {
+          account.cooldown = false;
+          account.cooldownUntil = null;
+          expiredCount++;
+          statusName = account.status === 'active' ? 'ACTIVE' : 'DISABLED';
+        }
+      } else {
+        statusName = account.status === 'active' ? 'ACTIVE' : 'DISABLED';
+      }
+
+      result.isCooldown = isCooldown;
+      result.statusName = statusName;
+      result.alive = account.status === 'active' || isCooldown;
+      return result;
+    });
+
+    if (expiredCount > 0) {
+      AccountManager.saveAccounts(accounts);
+    }
+
+    console.clear();
+    displayASCIIBanner();
+
+    console.log(magenta('\n═════════════════════════════════════════════════════════════════════════'));
+    console.log(magenta('                       ACCOUNT STATUS REPORT                           '));
+    console.log(magenta('═════════════════════════════════════════════════════════════════════════'));
+
+    const aliveCount = results.filter(r => r.alive && !r.isCooldown).length;
+    const disabledCount = results.filter(r => !r.alive && !r.isCooldown).length;
+    const cooldownCount = results.filter(r => r.isCooldown).length;
+
+    console.log(green(`  ✅ ACTIVE ACCOUNTS:     ${aliveCount}`.padEnd(60)));
+    console.log(red(`  ❌ DISABLED ACCOUNTS:   ${disabledCount}`.padEnd(60)));
+    console.log(yellow(`  🔴 COOLDOWN ACCOUNTS:   ${cooldownCount}`.padEnd(60)));
+    console.log(cyan(`  📊 TOTAL ACCOUNTS:     ${results.length}`.padEnd(60)));
+
+    console.log(magenta('\n  DETAILED STATUS:'));
+    console.log(magenta('  ─────────────────────────────────────────────────────────────'));
+
+    results.forEach((result, i) => {
+      let status;
+      if (result.isCooldown) {
+        status = yellow('🔴 COOLDOWN');
+        const timeRemaining = new Date(result.cooldownUntil) - now;
+        const minutes = Math.ceil(timeRemaining / 60000);
+        console.log(cyan(`  ${String(i + 1).padEnd(2)}. ${String(result.id).substring(0, 12)}... ${status} - ${minutes}min remaining`.padEnd(70)));
+      } else if (result.alive) {
+        status = green('✅ ACTIVE');
+        console.log(cyan(`  ${String(i + 1).padEnd(2)}. ${String(result.id).substring(0, 12)}... ${status}`.padEnd(70)));
+      } else {
+        status = red('❌ DISABLED');
+        console.log(cyan(`  ${String(i + 1).padEnd(2)}. ${String(result.id).substring(0, 12)}... ${status}`.padEnd(70)));
+      }
+    });
+
+    console.log(magenta('═════════════════════════════════════════════════════════════════════════\n'));
+
+    if (disabledCount > 0) {
+      const confirm = await ask(cyan('[+] ❓ Remove disabled accounts? (y/N, b=back): '));
+      console.clear();
+      if (confirm.toLowerCase() === 'y') {
+        const filtered = accounts.filter(acc => {
+          const result = results.find(r => r.id === acc.id);
+          return result && (result.alive || result.isCooldown);
+        });
+        AccountManager.saveAccounts(filtered);
+        console.log(green(`✅ Removed ${disabledCount} disabled accounts!`));
+      }
+    }
+  } catch (e) {
+    if (e.message === 'BACK' || e.message === 'STOP') {
+      console.clear();
+      return;
+    }
+    throw e;
+  }
+}
+
+async function singleShare() {
+  try {
+    console.clear();
+    displayASCIIBanner();
+    const accounts = AccountManager.listAccounts();
+    if (accounts.length === 0) return;
+
+    const indexInput = await ask(cyan('\n[+] Select account (number, b=back): '));
+    console.clear();
+    const index = parseInt(indexInput) - 1;
+    if (index < 0 || index >= accounts.length) {
+      console.log(red('❌ Invalid selection!'));
+      return;
+    }
+
+    const account = accounts[index];
+    if (account.status !== 'active') {
+      console.log(red(`❌ Account ${account.id} is inactive!`));
+      return;
+    }
+
+    const postUrl = await ask(cyan('[+] 🌐 Enter Post URL to share (b=back): '));
+    console.clear();
+    displayASCIIBanner();
+    const sharesInput = await ask(cyan('[+] 🔢 Number of shares (1-4000, b=back): '));
+    console.clear();
+    const shares = parseInt(sharesInput);
+
+    if (isNaN(shares) || shares < 1 || shares > 4000) {
+      console.log(red('❌ Invalid number! Must be between 1-4000'));
+      return;
+    }
+
+    console.log(yellow(`\n[+] 🚀 Starting ${shares} shares with Account ${index + 1}...`));
+    console.log(cyan(`   📱 Account ID: ${account.id}`));
+    console.log(cyan(`   🔗 URL: ${postUrl}\n`));
+
+    let success = 0;
+
+    for (let i = 1; i <= shares; i++) {
+      if (globalStopFlag) {
+        console.log(red('\n\n⏹️ SHARING STOPPED BY USER'));
+        break;
+      }
+      await new Promise(r => setTimeout(r, 1000 + Math.random() * 2000));
+      const res = await shareOnce(account.cookie, postUrl, account.id, 0);
+      if (res.success) {
+        console.log(green(`✅ SUCCESS ${i}/${shares} | ID: ${res.id}`)); 
+        success++;
+        account.shareCount++;
+        account.lastShare = new Date().toISOString();
+      } else {
+        console.log(red(`❌ FAILED ${i}/${shares} | ${res.error}`));
+      }
+    }
+
+    AccountManager.saveAccounts(accounts);
+
+  console.log(cyan('\n═════════════════════════════════════════════════════════════════════════'));
+  console.log(cyan('                     SINGLE SHARE COMPLETED!                     '));
+  console.log(cyan('═════════════════════════════════════════════════════════════════════════'));
+  console.log(green(`  SUCCESSFUL SHARES: \( {success}/ \){shares}`.padEnd(60)));
+  console.log(cyan(`  SUCCESS RATE:      ${((success/shares)*100).toFixed(1)}%`.padEnd(60)));
+  console.log(blue(`  ACCOUNT USED:      ${account.id}`.padEnd(60)));
+  console.log(yellow(`  POST URL:          ${postUrl.substring(0, 50)}...`.padEnd(60)));
+  console.log(cyan('═════════════════════════════════════════════════════════════════════════'));
+  console.log(C('38;5;51', '  Thank you for using BOOST-SH v1.1!'));
+  console.log(cyan('═════════════════════════════════════════════════════════════════════════\n'));
+  } catch (e) {
+    if (e.message === 'BACK' || e.message === 'STOP') {
+      console.clear();
+      return;
+    }
+    throw e;
+  }
+}
+
+function clearScreen() {
+  return new Promise(resolve => {
+    console.clear();
+    process.stdout.write('\x1b[3J\x1b[H\x1b[2J');
+    setTimeout(() => resolve(), 50);
+  });
+}
+
+function applyGradient(text) {
+  const colors = ['38;5;51', '38;5;45', '38;5;39', '38;5;33', '38;5;201', '38;5;165', '38;5;129', '38;5;93'];
+  let result = '';
+  for (let i = 0; i < text.length; i++) {
+    const char = text[i];
+    const colorIndex = Math.floor((i / text.length) * colors.length);
+    const color = colors[Math.min(colorIndex, colors.length - 1)];
+    result += C(color, char);
+  }
+  return result;
+}
+
+function applyAnimatedGradient(text) {
+  const colors = ['38;5;129', '38;5;135', '38;5;141', '38;5;211', '38;5;213', '38;5;219', '38;5;203', '38;5;209', '38;5;210', '38;5;51', '38;5;45', '38;5;39', '38;5;153', '38;5;159', '38;5;195'];
+  const shift = Math.floor((Date.now() / 100) % colors.length);
+  let result = '';
+  for (let i = 0; i < text.length; i++) {
+    const char = text[i];
+    const colorIndex = Math.floor((i / text.length) * colors.length);
+    const shiftedIndex = (colorIndex + shift) % colors.length;
+    const color = colors[shiftedIndex];
+    result += C(color, char);
+  }
+  return result;
+}
+
+function getAnimatedMenuTitle() {
+  const titleColors = ['38;5;51', '38;5;45', '38;5;39', '38;5;33', '38;5;201', '38;5;165', '38;5;129', '38;5;93'];
+  const menuTitle = '🚀 BOOST-SH v1.1 MAIN MENU 🚀';
+  let colorIndex = 0;
+  let result = '';
+
+  for (let i = 0; i < menuTitle.length; i++) {
+    const char = menuTitle[i];
+    const color = titleColors[colorIndex % titleColors.length];
+    result += C(color, char);
+    colorIndex++;
+  }
+
+  return result;
+}
+
+async function showMenu() {
+  const accounts = AccountManager.loadAccounts();
+  const accountCount = accounts.length;
+
+  console.log(magenta('\n┌──────────────────────────────────────────────────────────────┐'));
+  console.log(magenta('│ ') + applyGradient('BOOST-SH v1.1 MENU            │ STORED: ') + C('38;5;226', String(accountCount).padEnd(2)) + magenta('                   │'));
+  console.log(magenta('├──────────────────────────────────────────────────────────────┤'));
+
+  console.log(magenta('│ ') + applyAnimatedGradient('[1] Add Account               │ [5] Mass Share ') + magenta('              │'));
+  console.log(magenta('│ ') + applyAnimatedGradient('[2] List Accounts             │ [6] Statistics') + magenta('               │'));
+  console.log(magenta('│ ') + applyAnimatedGradient('[3] Remove Account            │ [7] Check Live Status') + magenta('        │'));
+  console.log(magenta('│ ') + applyAnimatedGradient('[4] Single Share              │ [8] Cooldown') + magenta('                 │'));
+  console.log(magenta('│ ') + applyAnimatedGradient('                      [9] Test All Accounts') + magenta('                  │'));
+
+  console.log(magenta('├──────────────────────────────────────────────────────────────┤'));
+  console.log(magenta('│       ') + applyAnimatedGradient('        ⚡ SPAMSHARE BY: WEYN DUMP ⚡') + magenta('                  │'));
+  console.log(magenta('└──────────────────────────────────────────────────────────────┘'));
+  console.log('');
+}
+
+async function testAllAccounts() {
+  try {
+    let accounts = AccountManager.loadAccounts();
+    if (!accounts || accounts.length === 0) {
+      console.log(red('\n❌ No accounts to test!'));
+      return;
+    }
+
+    console.clear();
+    displayASCIIBanner();
+
+    const testUrl = (await ask(cyan('[+] 🌐 Enter Post URL to test (b=back): '))).trim();
+    console.clear();
+    displayASCIIBanner();
+
+    if (!testUrl || testUrl.toLowerCase() === 'b') {
+      return;
+    }
+
+    console.log(yellow(`\n🧪 TESTING ALL ACCOUNTS (1 Share Each with: ${testUrl})\n`));
+    const startTime = Date.now();
+    const resultsMap = new Map();
+
+    const testPromises = accounts.map((acc, idx) => 
+      (async () => {
+        if (!acc || !acc.cookie) return;
+
+        process.stdout.write(cyan(`   Testing Account ${String(idx + 1).padStart(2)}/${accounts.length}... `));
+
+        const result = await shareOnce(acc.cookie, testUrl, acc.id, 0);
+
+        let status, statusText;
+
+        if (result.success) {
+          status = 'working';
+          statusText = green('WORKING');
+          acc.status = 'active';
+          acc.shareCount++;
+          acc.lastShare = new Date().toISOString();
+          console.log(green('✅ WORKING'));
+        } else {
+          const errorMsg = (result.error || '').toLowerCase();
+
+          if (errorMsg.includes('unless you login') || errorMsg.includes('until you login to')) {
+            status = 'disabled';
+            statusText = red('DISABLED');
+            acc.status = 'disabled';
+            console.log(red(`🚫 DISABLED (${result.error})`));
+          } else if (errorMsg.includes('we limit') || errorMsg.includes('rate limit') || errorMsg.includes('too frequent') || errorMsg.includes('frequency') || errorMsg.includes('limit how often')) {
+            status = 'limited';
+            statusText = yellow('LIMITED');
+            acc.cooldown = true;
+            acc.cooldownUntil = new Date(Date.now() + 1800000).toISOString();
+            console.log(yellow(`🔴 LIMITED (${result.error})`));
+          } else {
+            status = 'error';
+            statusText = red(`ERROR: ${result.error}`);
+            console.log(red(`❌ ERROR: ${result.error}`));
+          }
+        }
+
+        resultsMap.set(idx, { uid: acc.uid, status, statusText });
+      })()
+    );
+
+    await Promise.all(testPromises);
+
+    const results = Array.from(resultsMap.values());
+    const duration = ((Date.now() - startTime) / 1000).toFixed(1);
+    AccountManager.saveAccounts(accounts);
+
+    console.log(magenta('\n═════════════════════════════════════════════════════════════════════════'));
+    console.log(magenta('                     TEST ALL ACCOUNTS REPORT                         '));
+    console.log(magenta('═════════════════════════════════════════════════════════════════════════'));
+
+    const workingCount = results.filter(r => r.status === 'working').length;
+    const disabledCount = results.filter(r => r.status === 'disabled').length;
+    const limitedCount = results.filter(r => r.status === 'limited').length;
+    const errorCount = results.filter(r => r.status === 'error').length;
+
+    console.log(green(`  ✅ WORKING:      ${workingCount}`.padEnd(60)));
+    console.log(red(`  🚫 DISABLED:     ${disabledCount}`.padEnd(60)));
+    console.log(yellow(`  🔴 LIMITED:      ${limitedCount}`.padEnd(60)));
+    console.log(red(`  ❌ ERROR:        ${errorCount}`.padEnd(60)));
+    console.log(blue(`  📊 TOTAL TESTED: ${results.length}`.padEnd(60)));
+    console.log(cyan(`  ⏱️  TIME:         ${duration}s`.padEnd(60)));
+
+    console.log(magenta('\n  DETAILED RESULTS:'));
+    results.forEach((r, i) => {
+      let icon, statusLabel;
+      if (r.status === 'working') {
+        icon = green('✅');
+        statusLabel = green('WORKING');
+      } else if (r.status === 'disabled') {
+        icon = red('🚫');
+        statusLabel = red('DISABLED');
+      } else if (r.status === 'limited') {
+        icon = yellow('🔴');
+        statusLabel = yellow('LIMITED');
+      } else {
+        icon = red('❌');
+        statusLabel = red('ERROR');
+      }
+      console.log(magenta(`  ${String(i + 1).padStart(2)}. ${icon} ${statusLabel} - UID: ${r.uid}`));
+    });
+
+    console.log(magenta('═════════════════════════════════════════════════════════════════════════\n'));
+  } catch (e) {
+    if (e.message === 'BACK' || e.message === 'STOP') {
+      console.clear();
+      return;
+    }
+    console.log(red(`\n❌ Error: ${e.message}`));
+  }
+}
+
+async function showCooldownAccounts() {
+  console.clear();
+  displayASCIIBanner();
+  const accounts = AccountManager.loadAccounts();
+  const now = new Date();
+
+  let expiredCount = 0;
+  const cooldownAccounts = accounts.filter(acc => {
+    if (!acc.cooldown || !acc.cooldownUntil) return false;
+    const cooldownUntil = new Date(acc.cooldownUntil);
+    if (now >= cooldownUntil) {
+      acc.cooldown = false;
+      acc.cooldownUntil = null;
+      expiredCount++;
+      return false;
+    }
+    return true;
+  });
+
+  if (expiredCount > 0) {
+    AccountManager.saveAccounts(accounts);
+    console.log(green(`✅ Cleared ${expiredCount} expired cooldown(s)!\n`));
+    await new Promise(r => setTimeout(r, 1500));
+    console.clear();
+    displayASCIIBanner();
+  }
+
+  if (cooldownAccounts.length === 0) {
+    console.log(red('\n╔══════════════════════════════════════════════════════════════╗'));
+    console.log(red('║              ✅ NO ACCOUNTS IN COOLDOWN ✅                  ║'));
+    console.log(red('╠══════════════════════════════════════════════════════════════╣'));
+    console.log(green('║  All accounts are ready to share!                           ║'));
+    console.log(red('╚══════════════════════════════════════════════════════════════╝'));
+    return;
+  }
+
+  console.log(magenta('\n═════════════════════════════════════════════════════════════════════════'));
+  console.log(magenta('                       COOLDOWN ACCOUNTS REPORT                       '));
+  console.log(magenta('═════════════════════════════════════════════════════════════════════════'));
+  console.log(cyan(`  Total in Cooldown: ${cooldownAccounts.length}`.padEnd(60)));
+  console.log(magenta('═════════════════════════════════════════════════════════════════════════\n'));
+  console.log(magenta('  DETAILED COOLDOWN STATUS:'));
+  console.log(magenta('  ─────────────────────────────────────────────────────────────'));
+
+  cooldownAccounts.forEach((acc, i) => {
+    const cooldownUntil = new Date(acc.cooldownUntil);
+    const timeRemaining = cooldownUntil - now;
+    let timeText = '';
+
+    if (timeRemaining <= 0) {
+      timeText = red('EXPIRED - Ready to use!');
+    } else {
+      const minutes = Math.floor(timeRemaining / 60000);
+      const seconds = Math.floor((timeRemaining % 60000) / 1000);
+      timeText = yellow(`${minutes}m ${seconds}s remaining`);
+    }
+
+    const idShort = String(acc.id).substring(0, 12);
+    const shares = String(acc.shareCount).padEnd(4);
+    console.log(cyan(`  ${String(i + 1).padEnd(2)} │ ID: ${idShort}... │ Shares: ${shares} │ Time Left: ${timeText}`));
+  });
+
+  console.log(magenta('═════════════════════════════════════════════════════════════════════════\n'));
+}
+
+async function showStats() {
+  console.clear();
+  displayASCIIBanner();
+  const accounts = AccountManager.loadAccounts();
+  if (accounts.length === 0) {
+    console.log(red('\n╔══════════════════════════════════════════════════════════════╗'));
+    console.log(red('║                  ❌ NO STATISTICS AVAILABLE ❌              ║'));
+    console.log(red('╠══════════════════════════════════════════════════════════════╣'));
+    console.log(yellow('║  💡 Add accounts first to see statistics                     ║'));
+    console.log(red('╚══════════════════════════════════════════════════════════════╝'));
+    return;
+  }
+
+  const totalShares = accounts.reduce((sum, acc) => sum + acc.shareCount, 0);
+  const activeAccounts = accounts.filter(acc => acc.status === 'active').length;
+  const totalAccounts = accounts.length;
+  const totalSuccessRate = totalShares > 0 ? ((accounts.filter(acc => acc.shareCount > 0).length / totalAccounts) * 100).toFixed(1) : '0';
+
+  console.log(magenta('\n═════════════════════════════════════════════════════════════════════════'));
+  console.log(magenta('                       COMPREHENSIVE STATISTICS                       '));
+  console.log(magenta('═════════════════════════════════════════════════════════════════════════'));
+  console.log(cyan('  OVERVIEW'));
+  console.log(cyan('─────────────────────────────────────────────────────────────────────────'));
+  console.log(blue(`  Total Accounts:            ${totalAccounts}`.padEnd(60)));
+  console.log(green(`  Active Accounts:           ${activeAccounts}`.padEnd(60)));
+  console.log(red(`  Inactive Accounts:         ${totalAccounts - activeAccounts}`.padEnd(60)));
+  console.log(yellow(`  Total Shares:              ${totalShares}`.padEnd(60)));
+  console.log(magenta('═════════════════════════════════════════════════════════════════════════\n'));
+
+  if (totalShares > 0) {
+    console.log(cyan(`  AVERAGE SHARES PER ACCOUNT: ${(totalShares / totalAccounts).toFixed(1)}`.padEnd(60)));
+    console.log(magenta(`  OVERALL SUCCESS RATE:        ${totalSuccessRate}%`.padEnd(60)));
+  }
+
+  console.log(''); 
+  console.log(cyan('═════════════════════════════════════════════════════════════════════════'));
+  console.log(cyan('                       DETAILED PER-ACCOUNT BREAKDOWN                   '));
+  console.log(cyan('═════════════════════════════════════════════════════════════════════════'));
+
+  accounts.forEach((acc, i) => {
+    const statusColor = acc.status === 'active' ? green('ACTIVE') : red('INACTIVE');
+    const readiness   = acc.status === 'active' ? 'Ready   ' : 'Paused  ';
+    const lastShare   = acc.lastShare ? new Date(acc.lastShare).toLocaleDateString() : 'Never   ';
+    const addedDate   = acc.added.split('T')[0];
+
+    console.log(cyan(`  ${String(i + 1).padEnd(2)} │ ID: ${String(acc.id).substring(0, 10)}... │ ${statusColor} │ Shares: ${String(acc.shareCount).padEnd(4)} │ Added: ${addedDate}`));
+    console.log(cyan(`     └ Last Share: ${lastShare.padEnd(12)} │ Status: ${readiness}`));
+    console.log(''); 
+  });
+
+  console.log(cyan('═════════════════════════════════════════════════════════════════════════'));
+  console.log(yellow('  Tip: Keep accounts ACTIVE for maximum sharing power & speed!'));
+  console.log(cyan('═════════════════════════════════════════════════════════════════════════\n'));
+}
+
+async function main() {
+  console.clear();
+  console.log('\n');
+  displayASCIIBanner();
+  while (true) {
+    try {
+      await showMenu();
+      const choice = await ask(cyan('\n[+] Select option (0-9, b=back): '));
+
+      switch (choice.toLowerCase()) {
+        case '1':
+          await AccountManager.addAccount();
+          break;
+        case '2':
+          AccountManager.listAccounts();
+          break;
+        case '3':
+          await AccountManager.removeAccount();
+          break;
+        case '4':
+          await singleShare();
+          break;
+        case '5':
+          await massShare();
+          break;
+        case '6':
+          await showStats();
+          break;
+        case '7':
+          await checkAllAccountsLive();
+          break;
+        case '8':
+          await showCooldownAccounts();
+          break;
+        case '9':
+          await testAllAccounts();
+          break;
+        case '0':
+        case 'exit':
+          console.log(C('38;5;51', '\n👋 Thank you for using BOOST-SH v1.1!'));
+
+          rl.close();
+          return;
+        default:
+          console.log(red('\n❌ Invalid option! Please select 0-9.'));
+      }
+
+      try {
+        await ask(cyan('\n[+] Press Enter to continue (b=back)...'));
+      } catch (e) {
+        if (e.message === 'BACK' || e.message === 'STOP') {
+          console.clear();
+          console.log('\n');
+          displayASCIIBanner();
+          continue;
+        }
+      }
+    } catch (e) {
+      if (e.message === 'BACK' || e.message === 'STOP') {
+        console.clear();
+        console.log('\n');
+        displayASCIIBanner();
+        continue;
+      }
+      throw e;
+    }
+
+    console.clear();
+    console.log('\n');
+    displayASCIIBanner();
+  }
+}
+
+function startMain() { 
+  main().catch(e => { 
+    console.log(red(`\n❌ Critical Error: ${e.message}`)); 
+    console.log(yellow('💡 Try running with --debug for more details'));
+    process.exit(1); 
+  }); 
+}
+
+
+if (process.argv.includes('--version') || process.argv.includes('-v')) {
+
+  process.exit(0);
+}
+
+printAnimatedBanner();

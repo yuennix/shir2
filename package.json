@@ -1,0 +1,20 @@
+{
+  "name": "boost-sh-facebook-share",
+  "version": "1.1.0",
+  "description": "BOOST-SH v1.1 - Facebook Mass Sharing Tool with Multiple Accounts Support",
+  "main": "weynshare.js",
+  "scripts": {
+    "start": "node weynshare.js"
+  },
+  "keywords": [
+    "facebook",
+    "automation",
+    "sharing",
+    "cli"
+  ],
+  "author": "Jhames Martin",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
